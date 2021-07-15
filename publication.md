@@ -1,4 +1,4 @@
-List of all publications at Google Scholar and at ResearchGate.
+List of all publications at [Google Scholar](https://scholar.google.com/citations?user=_XE_jhQAAAAJ&hl=en).
 
 ## Selected Publications
 

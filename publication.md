@@ -20,7 +20,7 @@ B. Hentschel, P. Haas, Y. Tian. TODS, 2019. (Invited as Best of EDBT 2018)
 **Online Model Management via Temporally Biased Sampling**
 B. Hentschel, P. Haas, Y. Tian. SIGMOD Record, 2019. (SIGMOD Record Research Highlight Award)
 
-**HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration [Presentation] **
+**HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration [Presentation]**
 Y. Wu, J. Yu, Y. Tian, R. Sidle, R. Barber. The Proceedings of the VLDB Endowment (PVLDB) 12(12), Demo, 2019.
 
 **Synergistic Graph and SQL Analytics Inside IBM Db2**

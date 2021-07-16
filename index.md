@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home Page
+---
 
 
 ![portrit](https://humming80.github.io/YTian.jpg) 

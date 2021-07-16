@@ -16,9 +16,11 @@ C. Garcia-Arellano, A. Storm, D. Kalmuk, H. Roumani, R. Barber, Y. Tian, R. Sidl
 Y. Tian, E. L. Xu, W. Zhao, H. Pirahesh, S. J. Tong, W. Sun, T. Kolanko, S. H. Apu, H. Peng. The 40th ACM SIGMOD International Conference on Management of Data (SIGMOD), Industry Paper, 2020.
 
 **Enabling Rich Queries over Heterogeneous Data from Diverse Sources in HealthCare** \
+[\[PDF\]](https://humming80.github.io/papers/polystore-cidr20.pdf) \
 A. Quamar, J. Straube, Y. Tian. CIDR, 2020.
 
 **WiSer: A Highly Available HTAP DBMS for IoT Applications** \
+[\[PDF\]](https://humming80.github.io/papers/bigdata2019.pdf) \
 R. Barber, C. Garcia-Arellano, R. Grosman, G. Lohman, C. Mohan, R. Muller, H. Pirahesh, V. Raman, R. Sidle, A. Storm, Y. Tian, P. Tozun, and Y. Wu. IEEE BigData, 2019.
 
 **General Temporally-Biased Sampling Schemes for Online Model Management** \
@@ -27,18 +29,20 @@ B. Hentschel, P. Haas, Y. Tian. TODS, 2019. _(Invited as Best of EDBT 2018)_
 **Online Model Management via Temporally Biased Sampling** \
 B. Hentschel, P. Haas, Y. Tian. SIGMOD Record, 2019. _(SIGMOD Record Research Highlight Award)_
 
-**HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration [Presentation]** \
+**HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration** \
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/p1882-wu.pdf) \
 Y. Wu, J. Yu, Y. Tian, R. Sidle, R. Barber. The Proceedings of the VLDB Endowment (PVLDB) 12(12), Demo, 2019.
 
 **Synergistic Graph and SQL Analytics Inside IBM Db2** \
+[\[PDF\]](https://humming80.github.io/papers/hermit.pdf) [\[Presentation\]](https://av.tib.eu/media/42895) \
 Y. Tian, S. J. Tong, H. Pirahesh, W. Sun, E. L. Xu, W. Zhao. The Proceedings of the VLDB Endowment (PVLDB) 12(12), Demo, 2019.
 
 **Designing Succinct Secondary Indexing Mechanism by Exploiting Column Correlations** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/p1782-tian.pdf) [\[Demo\]](https://www.youtube.com/watch?v=C5vmcYKEN-U) \
 Y. Wu, J. Yu, Y. Tian, R. Sidle, R. Barber. The 39th ACM SIGMOD International Conference on Management of Data (SIGMOD), 2019.
 
 **Umzi: Unified Multi-Zone Indexing for Large-Scale HTAP** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/umzi.pdf) \
 C. Luo, P. Tözün, Y. Tian, R. Barber, V. Raman, R. Sidle. The 22nd International Conference on Extending Database Technology (EDBT), 2019.
 
 **Hybrid Systems Based on Traditional Database Extensions** \
@@ -48,71 +52,71 @@ Y. Tian. Encyclopedia of Big Data Technologies, 2018.
 R. Barber, V. Raman, R. Sidle, Y. Tian, P. Tozun. Encyclopedia of Big Data Technologies, 2018.
 
 **Temporally-Biased Sampling for Online Model Management** \
-[PDF] [Long Paper in arXiv]
+[\[PDF\]](https://humming80.github.io/papers/paper-tbs.pdf) [\[Long Paper\]](https://arxiv.org/abs/1801.09709) \
 B. Hentschel, P. J. Haas, Y. Tian. The 21st International Conference on Extending Database Technology (EDBT), 2018. _(EDBT 2018 Best Paper Award)_
 
 **Systems for Big Graph Analytics (Book)** \
 D. Yan, Y. Tian, J. Cheng. SpringerBriefs in Computer Science, Springer, 2017.
 
 **Hybrid Transactional/Analytical Processing: A Survey** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/sigmod-htaptut.pdf) \
 F. Özcan, Y. Tian, P. Tözün. The 37th ACM SIGMOD International Conference on Management of Data (SIGMOD), Tutorial, 2017.
 
 **Big Graph Analytics Platforms (Book)** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/Yan-Vol7-DBS-056.pdf) \
 D. Yan, Y. Bu, Y. Tian, A. Deshpande. Foundations and Trends in Databases, Vol. 7: No. 1-2, pp 1-195, 2017.
 
 **Evolving Databases for New-Gen Big Data Applications** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/wildfire-cidr17.pdf) \
 C. Garcia-Arellano, R. Barber, M. Huras, R. Grosman, C. Mohan, R. Mueller, F. Özcan, H. Pirahesh, V. Raman, R. Sidle, A. Storm, Y. Tian, P. Tözün, D. Zilio, G. Lohman. The 2017 biennial Conference on Innovative Data Systems Research (CIDR), 2017.
 
 **Building a Hybrid Warehouse: Efficient Joins Between Data Stored in HDFS and Enterprise Warehouse** \
-[PDF] [Slides]
+[\[PDF\]](https://humming80.github.io/papers/published_tods.pdf) [\[Slides\]](https://www.slideshare.net/ytian1/building-a-hybrid-warehouse-efficient-joins-between-data-stored-in-hdfs-and-enterprise-data-warehouse-edw) \
 Y. Tian, F. Ozcan, T. Zou, R. Goncalves, H. Pirahesh. ACM Transactions on Database Systems (TODS), 2016. _(Invited as Best of EDBT 2015)_
 
 **Wildfire: Concurrent Blazing Data Ingest and Analytics** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/wildfire.pdf) \
 R. Barber, M. Huras, G. Lohman, C. Mohan, R. Mueller, F. Özcan, H. Pirahesh, V. Raman, R. Sidle,
 O. Sidorkin, A. Storm, Y. Tian, P. Tözün. The 36th ACM SIGMOD International Conference on Management of Data (SIGMOD), Demo, 2016.
 
 **Big Graph Analytics Platforms** \
-[PDF] [Slides]
+[\[PDF\]](https://humming80.github.io/papers/bigGraph.pdf) [\[Slides\]](https://www.slideshare.net/ytian1/big-graph-analytics-systems-sigmod16-tutorial) \
 D. Yan, Y. Bu, Y. Tian, A. Deshpande, J. Cheng. The 36th ACM SIGMOD International Conference on Management of Data (SIGMOD), Tutorial, 2016.
 
 **Resource Elasticity for Large-Scale Machine Learning** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/p137-huang.pdf) \
 B. Huang, M. Boehm, Y. Tian, B. Reinwald, S. Tatikonda, F. R. Reiss. The 35th ACM SIGMOD International Conference on Management of Data (SIGMOD), 2015.
 
 **Joins for Hybrid Warehouses: Exploiting Massive Parallelism in Hadoop and Enterprise Data Warehouses** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/bigjoin.pdf) \
 Y. Tian, T. Zou, F. Ozcan, R. Goncalves, H. Pirahesh. The 18th International Conference on Extending Database Technology (EDBT), 2015. _(Best of EDBT 2015)_
 
 **A Generic Solution to Integrate SQL and Analytics for Big Data** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/bigintegration.pdf) \
 N. R. Katsipoulakis, Y. Tian, F. Ozcan, B. Reinwald, H. Pirahesh. The 18th International Conference on Extending Database Technology (EDBT), Vision Paper, 2015.
 
 **Dynamic Interaction Graphs with Probabilistic Edge Decay** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/tide.pdf) \
 W. Xie, Y. Tian, Y. Sismanis, A. Balmin, P. J. Haas. The 31st International Conference on Data Engineering (ICDE), 2015.
 
 **SystemML’s Optimizer: Plan Generation for Large-Scale Machine Learning Programs** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/p52.pdf) \
 M. Boehm, D. Burdick, A. Evfimievski, B. Reinwald, F. R. Reiss, P. Sen, S. Tatikonda, Y. Tian. Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, 37(3), 2014.
 
 **Distributed Graph Summarization** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/db0189-liu.pdf) \
 X. Liu, Y. Tian, Q. He, W. Lee, J. McPherson. The 23rd ACM International Conference on Information and Knowledge Management (CIKM), 2014.
 
 **Hybrid Parallelization Strategies for Large Scale Machine Learning in SystemML** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/p553-boehm.pdf) \
 M. Boehm, S. Tatikonda, B. Reinwald, P. Sen, Y. Tian, D. R. Burdick, S. Vaithyanathan. The Proceedings of the VLDB Endowment (PVLDB) 7(7), 2014.
 
 **Scalable Topic-Specific Influence Analysis on Microblogs** \
-[PDF] [Slides]
+[\[PDF\]](https://humming80.github.io/papers/wsdm2014.pdf) [\[Slides\]](https://www.slideshare.net/ytian1/scalable-topicspecific-influence-analysis-on-microblogs) \
 B. Bi, Y. Tian, Y. Sismanis, A. Balmin, J. Cho. The 7th ACM Conference on Web Search and Data Mining (WSDM), 2014.
 
 **From "Think Like a Vertex" to "Think Like a Graph"** \
-[PDF] [Slides] [Code Contributed to Giraph]
+[\[PDF\]](https://humming80.github.io/papers/giraph++.pdf) [\[Slides\]](https://www.slideshare.net/ytian1/giraph-from-think-like-a-vertex-to-think-like-a-graph) \
 Y. Tian, A. Balmin, S. A. Corsten, S. Tatikonda, J. McPherson. The Proceedings of the VLDB Endowment (PVLDB) 7(3), 2013. _(Best of VLDB 2014)_
 
 **Compiling Machine Learning Algorithms with SystemML** \

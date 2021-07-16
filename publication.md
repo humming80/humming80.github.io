@@ -8,9 +8,11 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 ## Selected Publications
 
 **Db2 Event Store: A Purpose-Built IoT Database Engine** \
+[\[PDF\]](https://humming80.github.io/papers/eventStore.pdf) \
 C. Garcia-Arellano, A. Storm, D. Kalmuk, H. Roumani, R. Barber, Y. Tian, R. Sidle, F. Ozcan, M. Spilchen, J. Tiefenbach, D. Zilio, L. Pham, K. Rakopoulos, A. Cheung, D. Pepper, I. Sayyid, G. Gershinsky, G. Lushi, H. Pirahesh. The Proceedings of the VLDB Endowment (PVLDB), Industry Paper, 2020.
 
-**IBM Db2 Graph: Supporting Synergistic and Retrofittable Graph Queries Inside IBM Db2 [Presentation]** \
+**IBM Db2 Graph: Supporting Synergistic and Retrofittable Graph Queries Inside IBM Db2** \
+[\[PDF\]](https://humming80.github.io/papers/db2graph-paper.pdf) [\[Presentation\]](https://www.youtube.com/watch?v=CwT_898Zkzk) \
 Y. Tian, E. L. Xu, W. Zhao, H. Pirahesh, S. J. Tong, W. Sun, T. Kolanko, S. H. Apu, H. Peng. The 40th ACM SIGMOD International Conference on Management of Data (SIGMOD), Industry Paper, 2020.
 
 **Enabling Rich Queries over Heterogeneous Data from Diverse Sources in HealthCare** \

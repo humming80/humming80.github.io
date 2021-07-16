@@ -15,10 +15,10 @@ A. Quamar, J. Straube, Y. Tian. CIDR, 2020.
 R. Barber, C. Garcia-Arellano, R. Grosman, G. Lohman, C. Mohan, R. Muller, H. Pirahesh, V. Raman, R. Sidle, A. Storm, Y. Tian, P. Tozun, and Y. Wu. IEEE BigData, 2019.
 
 **General Temporally-Biased Sampling Schemes for Online Model Management**
-B. Hentschel, P. Haas, Y. Tian. TODS, 2019. (Invited as Best of EDBT 2018)
+B. Hentschel, P. Haas, Y. Tian. TODS, 2019. <span style="color:red">(Invited as Best of EDBT 2018)</span>
 
 **Online Model Management via Temporally Biased Sampling**
-B. Hentschel, P. Haas, Y. Tian. SIGMOD Record, 2019. (SIGMOD Record Research Highlight Award)
+B. Hentschel, P. Haas, Y. Tian. SIGMOD Record, 2019. <span style="color:red">(SIGMOD Record Research Highlight Award)
 
 **HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration [Presentation]**
 Y. Wu, J. Yu, Y. Tian, R. Sidle, R. Barber. The Proceedings of the VLDB Endowment (PVLDB) 12(12), Demo, 2019.
@@ -42,7 +42,7 @@ R. Barber, V. Raman, R. Sidle, Y. Tian, P. Tozun. Encyclopedia of Big Data Techn
 
 **Temporally-Biased Sampling for Online Model Management**
 [PDF] [Long Paper in arXiv]
-B. Hentschel, P. J. Haas, Y. Tian. The 21st International Conference on Extending Database Technology (EDBT), 2018. (EDBT 2018 Best Paper Award)
+B. Hentschel, P. J. Haas, Y. Tian. The 21st International Conference on Extending Database Technology (EDBT), 2018. <span style="color:red">(EDBT 2018 Best Paper Award)</span>
 
 **Systems for Big Graph Analytics (Book)**
 D. Yan, Y. Tian, J. Cheng. SpringerBriefs in Computer Science, Springer, 2017.
@@ -61,7 +61,7 @@ C. Garcia-Arellano, R. Barber, M. Huras, R. Grosman, C. Mohan, R. Mueller, F. Ö
 
 **Building a Hybrid Warehouse: Efficient Joins Between Data Stored in HDFS and Enterprise Warehouse**
 [PDF] [Slides]
-Y. Tian, F. Ozcan, T. Zou, R. Goncalves, H. Pirahesh. ACM Transactions on Database Systems (TODS), 2016. (Invited as Best of EDBT 2015)
+Y. Tian, F. Ozcan, T. Zou, R. Goncalves, H. Pirahesh. ACM Transactions on Database Systems (TODS), 2016. <span style="color:red">(Invited as Best of EDBT 2015)</span>
 
 **Wildfire: Concurrent Blazing Data Ingest and Analytics**
 [PDF]
@@ -78,7 +78,7 @@ B. Huang, M. Boehm, Y. Tian, B. Reinwald, S. Tatikonda, F. R. Reiss. The 35th AC
 
 **Joins for Hybrid Warehouses: Exploiting Massive Parallelism in Hadoop and Enterprise Data Warehouses**
 [PDF]
-Y. Tian, T. Zou, F. Ozcan, R. Goncalves, H. Pirahesh. The 18th International Conference on Extending Database Technology (EDBT), 2015. (Best of EDBT 2015)
+Y. Tian, T. Zou, F. Ozcan, R. Goncalves, H. Pirahesh. The 18th International Conference on Extending Database Technology (EDBT), 2015. <span style="color:red">(Best of EDBT 2015)</span>
 
 **A Generic Solution to Integrate SQL and Analytics for Big Data**
 [PDF]
@@ -106,7 +106,7 @@ B. Bi, Y. Tian, Y. Sismanis, A. Balmin, J. Cho. The 7th ACM Conference on Web Se
 
 **From "Think Like a Vertex" to "Think Like a Graph"**
 [PDF] [Slides] [Code Contributed to Giraph]
-Y. Tian, A. Balmin, S. A. Corsten, S. Tatikonda, J. McPherson. The Proceedings of the VLDB Endowment (PVLDB) 7(3), 2013. (Best of VLDB 2014)
+Y. Tian, A. Balmin, S. A. Corsten, S. Tatikonda, J. McPherson. The Proceedings of the VLDB Endowment (PVLDB) 7(3), 2013. <span style="color:red">(Best of VLDB 2014)</span>
 
 **Compiling Machine Learning Algorithms with SystemML**
 [PDF]

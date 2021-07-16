@@ -28,7 +28,7 @@ _Social Network Analysis Papers_: Topic-Specific Influence Analysis (WSDM'14), E
 
 _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIGMOD Record'19, EDBT'18), Integration of SQL and ML (EDBT'15), SystemML on YARN (SIGMOD'15), SystemML Optimizer (IEEE DE Bulletin'14), ParFor in SystemML (PVLDB'14), Numerical Stability in SystemML (ICDE'12), SystemML Archtecture (ICDE'11).
 
-### Selected Awards
+### **Selected Awards**
 
 - 2020 ACM Distinguished Member
 
@@ -74,7 +74,7 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 - 2003 Rackham Graduate Fellowship, University of Michigan 
 
-### Invited Talks & Panels
+### **Invited Talks & Panels**
 
 - ICDE PhD Symposium Panel (Panelist) ICDE 2021, Apr 2021
 
@@ -102,7 +102,7 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 - SystemML: Large Scale Machine Learning on MapReduce, University of Maryland, College Park, Maryland, Apr 2012.
 
-### Professional Service
+### **Professional Service**
 
 **Editor**: Associate Editor for VLDB Journal (since 2019), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
 

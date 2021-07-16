@@ -1,6 +1,6 @@
 ---
 layout: default
-title: \[Personal Hobby\]
+title: Personal Hobby
 ---
 
 

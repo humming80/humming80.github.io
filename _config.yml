@@ -1,11 +1,11 @@
 # basic options
 title: Yuanyuan Tian's Home Page
 author: Yuanyuan Tian
-#email: your-email@domain.com
+email: [firstname][dot][initial of last name]@gmail.com
 #description: A wonderful site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal

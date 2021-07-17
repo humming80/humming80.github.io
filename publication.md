@@ -27,6 +27,7 @@ R. Barber, C. Garcia-Arellano, R. Grosman, G. Lohman, C. Mohan, R. Muller, H. Pi
 B. Hentschel, P. Haas, Y. Tian. TODS, 2019. _(Invited as Best of EDBT 2018)_
 
 **Online Model Management via Temporally Biased Sampling** \
+[\[PDF\]](https://sigmodrecord.org/publications/sigmodRecord/1903/pdfs/18_omm-hentschel.pdf) \
 B. Hentschel, P. Haas, Y. Tian. SIGMOD Record, 2019. _(SIGMOD Record Research Highlight Award)_
 
 **HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration** \

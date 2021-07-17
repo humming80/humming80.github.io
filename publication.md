@@ -120,67 +120,67 @@ B. Bi, Y. Tian, Y. Sismanis, A. Balmin, J. Cho. The 7th ACM Conference on Web Se
 Y. Tian, A. Balmin, S. A. Corsten, S. Tatikonda, J. McPherson. The Proceedings of the VLDB Endowment (PVLDB) 7(3), 2013. _(Best of VLDB 2014)_
 
 **Compiling Machine Learning Algorithms with SystemML** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/socc_ml.pdf) \
 M. Boehm, D. Burdick, A. Evfimievski, B. Reinwald, P. Sen, S. Tatikonda, Y. Tian. ACM Symposium on Cloud Computing (SoCC), Poster, 2013.
 
 **A Platform for eXtreme Analytics** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/xap.pdf) \
 A. Balmin, K. Beyer, V. Ercegovac, J. McPherson, F. Ozcan, H. Pirahesh, E. Shekita, Y. Sismanis, S. Tata, Y. Tian. IBM Journal of Research and Development, 57(3/4), 2013.
 
 **Event-based Social Networks: Linking the Online and Offline Social Worlds** \
-[PDF] [Slides]
+[\[PDF\]](https://humming80.github.io/papers/ebsn.pdf) [\[Slides\]](https://humming80.github.io/papers/ebsn_slides.pdf) \
 X. Liu, Q. He, Y. Tian, W. Lee, J. McPherson, J. Han. The 18th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2012.
 
 **Scalable and Numerically Stable Descriptive Statistics In SystemML** \
-[PDF] [Slides]
+[\[PDF\]](https://humming80.github.io/papers/stability.pdf) [\[Slides\]](https://humming80.github.io/papers/numerical_stability_icde2012.pdf) \
 Y. Tian, S. Tatikonda, B. Reinwald. The 28th International Conference on Data Engineering (ICDE), 2012.
 
 **CoHadoop: Flexible Data Placement and Its Exploitation in Hadoop** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/colocation.pdf) \
 M. Eltabakh, Y. Tian, F. Ozcan, R. Gemulla, A. Krettek, J. McPherson. The Proceedings of the VLDB Endowment (PVLDB), 2011.
 
 **SystemML: Declarative Machine Learning on MapReduce** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/systemML.pdf) \
 A. Ghoting, R. Krishnamurthy, E. Pednault, B. Reinwald, V. Sindhwani, S. Tatikonda, Y. Tian, S. Vaithyanathan (authors are ordered alphabetically by last names). The 27th International Conference on Data Engineering (ICDE), 2011.
 
 **Interactive Graph Summarization (Book Chapter)** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/chapter15.pdf) \
 Y. Tian, J. M. Patel. Chapter 15, Link Mining: Models, Algorithms and Applications, Springer, 2010.
 
 **A Comparison of Join Algorithms for Log Processing in MapReduce** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/hadoopjoin.pdf) \
 S. Blanas, J. M. Patel, V. Ercegovac, J. Rao, E. J. Shekita, Y. Tian. The 30th ACM SIGMOD International Conference on Management of Data (SIGMOD), 2010.
 
 **Discovery-Driven Graph Summarization** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/summarization2.pdf) \
 N. Zhang, Y. Tian, J. M. Patel. The 26th International Conference on Data Engineering (ICDE), 2010.
 
 **Michigan Molecular Interactions R2: From Interacting Proteins to Pathways** \
-[PDF]
+[\[PDF\]](https://academic.oup.com/nar/article/37/suppl_1/D642/1007349) \
 G. Tarcea, T. Weymouth, A. Ade, A. Bookvich, J. Gao, V. Mahavisno, Z. Wright, A. Chapman, M. Jayapandian, A. Ozgur, Y. Tian, J. Cavalcoli, B. Mirel, J. Patel, D. Radev, B. Athey, D. States and H. V. Jagadish. Nucleic Acids Research 37 (Database issue):D642-6, 2009.
 
 **Querying Graph Databases** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/ytian_1.pdf) \
 Y. Tian. PhD Thesis, University of Michigan, 2008.
 
 **Periscope/GQ: A Graph Querying Toolkit** \
-[PDF]
+[\[PDF\]](http://www.vldb.org/pvldb/vol1/1454184.pdf) \
 Y. Tian, J. M. Patel, V. Nair, S. Martini, M. Kretzler. The 34th International Conference on Very Large Data Bases (VLDB), Demo, 2008.
 
 **Efficient Aggregation for Graph Summarization** \
-[PDF] [Slides]
+[\[PDF\]](https://humming80.github.io/papers/summarization.pdf) [\[Slides\]](https://humming80.github.io/papers/summarization_slides.pdf) \
 Y. Tian, R. A. Hankins, J. M. Patel. The 28th ACM SIGMOD International Conference on Management of Data (SIGMOD), 2008.
 
 **TALE: A Tool for Approximate Large Graph Matching** \
-[PDF] [Extended Version] [Slides]
+[\[PDF\]](https://humming80.github.io/papers/tale.pdf) [\[Long Paper\]](https://humming80.github.io/papers/tale-full.pdf) [\[Slides\]](https://humming80.github.io/papers/ICDE08.pdf) \
 Y. Tian, J. M. Patel. The 24th International Conference on Data Engineering (ICDE), 2008.
 
 **SAGA: A Subgraph Matching Tool for Biological Graphs** \
-[NCIBI SAGA Web Site] [PDF] [Supplemental Material]
+[\[PDF\]](https://academic.oup.com/bioinformatics/article/23/2/232/205026) [\[Supplemental Material\]](https://researcher.watson.ibm.com/researcher/files/us-ytian/saga-suppl.pdf) [\[SAGA Web Site\]](http://www.ncibi.org/saga.html) \
 Y. Tian, R. C. McEachin, C. Santos, D. J. States, J. M. Patel. Bioinformatics Journal, 23(2):232-239, 2007.
 
 **Practical Methods for Constructing Suffix Trees** \
-[PDF] [Slides]
+[\[PDF\]](https://humming80.github.io/papers/stcvldbj.pdf) [\[Slides\]](https://humming80.github.io/papers/suffix_slides.pdf) \
 Y. Tian, S. Tata, R. A. Hankins, J. M. Patel. Very Large Data Base Journal (VLDBJ), 14(3): 281-299, 2005.
 
 

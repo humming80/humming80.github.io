@@ -11,7 +11,7 @@ Yuanyuan is currently a Principal Scientist at Microsoft Gray Systems Lab and an
 
 [\[Download CV\]](https://humming80.github.io/CV_Tian.pdf)
 
-**Contact**: [firstname].[last name initial]@gmail.com
+**Contact**: [fullname without space]@microsoft[dot]com
 
 ### **Reseach Areas**
 

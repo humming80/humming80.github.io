@@ -115,6 +115,7 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 **Workshop Chair**: 3rd Workshop on Large Scale Network Analysis (LSNA 2014), 5th Workshop on Graph Data Management (GDM 2014), 2nd Workshop on Large Scale Network Analysis (LSNA 2013), 4th Workshop on Graph Data Management (GDM 2013), 1st Workshop on Large Scale Network Analysis (LSNA 2012)
 
 **Panelist**:
+- Women in DB round table (Panelist) VLDB 2021, Aug 2021.
 - ICDE PhD Symposium Panel (Panelist) ICDE 2021, Apr 2021.
 - Round Table on Graph Databases, VLDB 2020.
 - “Women in DB: Experiences and Perspectives” event, Organizer, SIGMOD 2020.

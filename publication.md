@@ -35,15 +35,15 @@ B. Hentschel, P. Haas, Y. Tian. SIGMOD Record, 2019. _(SIGMOD Record Research Hi
 Y. Wu, J. Yu, Y. Tian, R. Sidle, R. Barber. The Proceedings of the VLDB Endowment (PVLDB) 12(12), Demo, 2019.
 
 **Synergistic Graph and SQL Analytics Inside IBM Db2** \
-[\[PDF\]](https://humming80.github.io/papers/hermit.pdf) [\[Presentation\]](https://av.tib.eu/media/42895) \
+[\[PDF\]](http://www.vldb.org/pvldb/vol12/p1782-tian.pdf) [\[Demo\]](https://www.youtube.com/watch?v=C5vmcYKEN-U) \
 Y. Tian, S. J. Tong, H. Pirahesh, W. Sun, E. L. Xu, W. Zhao. The Proceedings of the VLDB Endowment (PVLDB) 12(12), Demo, 2019.
 
 **Designing Succinct Secondary Indexing Mechanism by Exploiting Column Correlations** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/p1782-tian.pdf) [\[Demo\]](https://www.youtube.com/watch?v=C5vmcYKEN-U) \
+[\[PDF\]](https://humming80.github.io/papers/hermit.pdf) [\[Presentation\]](https://av.tib.eu/media/42895) \
 Y. Wu, J. Yu, Y. Tian, R. Sidle, R. Barber. The 39th ACM SIGMOD International Conference on Management of Data (SIGMOD), 2019.
 
 **Umzi: Unified Multi-Zone Indexing for Large-Scale HTAP** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/umzi.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/umzi.pdf) \
 C. Luo, P. Tözün, Y. Tian, R. Barber, V. Raman, R. Sidle. The 22nd International Conference on Extending Database Technology (EDBT), 2019.
 
 **Hybrid Systems Based on Traditional Database Extensions** \
@@ -76,7 +76,7 @@ C. Garcia-Arellano, R. Barber, M. Huras, R. Grosman, C. Mohan, R. Mueller, F. Ö
 Y. Tian, F. Ozcan, T. Zou, R. Goncalves, H. Pirahesh. ACM Transactions on Database Systems (TODS), 2016. _(Invited as Best of EDBT 2015)_
 
 **Wildfire: Concurrent Blazing Data Ingest and Analytics** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/wildfire.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/wildfire.pdf) \
 R. Barber, M. Huras, G. Lohman, C. Mohan, R. Mueller, F. Özcan, H. Pirahesh, V. Raman, R. Sidle,
 O. Sidorkin, A. Storm, Y. Tian, P. Tözün. The 36th ACM SIGMOD International Conference on Management of Data (SIGMOD), Demo, 2016.
 
@@ -85,31 +85,31 @@ O. Sidorkin, A. Storm, Y. Tian, P. Tözün. The 36th ACM SIGMOD International Co
 D. Yan, Y. Bu, Y. Tian, A. Deshpande, J. Cheng. The 36th ACM SIGMOD International Conference on Management of Data (SIGMOD), Tutorial, 2016.
 
 **Resource Elasticity for Large-Scale Machine Learning** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/p137-huang.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/p137-huang.pdf) \
 B. Huang, M. Boehm, Y. Tian, B. Reinwald, S. Tatikonda, F. R. Reiss. The 35th ACM SIGMOD International Conference on Management of Data (SIGMOD), 2015.
 
 **Joins for Hybrid Warehouses: Exploiting Massive Parallelism in Hadoop and Enterprise Data Warehouses** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/bigjoin.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/bigjoin.pdf) \
 Y. Tian, T. Zou, F. Ozcan, R. Goncalves, H. Pirahesh. The 18th International Conference on Extending Database Technology (EDBT), 2015. _(Best of EDBT 2015)_
 
 **A Generic Solution to Integrate SQL and Analytics for Big Data** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/bigintegration.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/bigintegration.pdf) \
 N. R. Katsipoulakis, Y. Tian, F. Ozcan, B. Reinwald, H. Pirahesh. The 18th International Conference on Extending Database Technology (EDBT), Vision Paper, 2015.
 
 **Dynamic Interaction Graphs with Probabilistic Edge Decay** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/tide.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/tide.pdf) \
 W. Xie, Y. Tian, Y. Sismanis, A. Balmin, P. J. Haas. The 31st International Conference on Data Engineering (ICDE), 2015.
 
 **SystemML’s Optimizer: Plan Generation for Large-Scale Machine Learning Programs** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/p52.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/p52.pdf) \
 M. Boehm, D. Burdick, A. Evfimievski, B. Reinwald, F. R. Reiss, P. Sen, S. Tatikonda, Y. Tian. Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, 37(3), 2014.
 
 **Distributed Graph Summarization** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/db0189-liu.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/db0189-liu.pdf) \
 X. Liu, Y. Tian, Q. He, W. Lee, J. McPherson. The 23rd ACM International Conference on Information and Knowledge Management (CIKM), 2014.
 
 **Hybrid Parallelization Strategies for Large Scale Machine Learning in SystemML** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/p553-boehm.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/p553-boehm.pdf) \
 M. Boehm, S. Tatikonda, B. Reinwald, P. Sen, Y. Tian, D. R. Burdick, S. Vaithyanathan. The Proceedings of the VLDB Endowment (PVLDB) 7(7), 2014.
 
 **Scalable Topic-Specific Influence Analysis on Microblogs** \
@@ -121,11 +121,11 @@ B. Bi, Y. Tian, Y. Sismanis, A. Balmin, J. Cho. The 7th ACM Conference on Web Se
 Y. Tian, A. Balmin, S. A. Corsten, S. Tatikonda, J. McPherson. The Proceedings of the VLDB Endowment (PVLDB) 7(3), 2013. _(Best of VLDB 2014)_
 
 **Compiling Machine Learning Algorithms with SystemML** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/socc_ml.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/socc_ml.pdf) \
 M. Boehm, D. Burdick, A. Evfimievski, B. Reinwald, P. Sen, S. Tatikonda, Y. Tian. ACM Symposium on Cloud Computing (SoCC), Poster, 2013.
 
 **A Platform for eXtreme Analytics** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/xap.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/xap.pdf) \
 A. Balmin, K. Beyer, V. Ercegovac, J. McPherson, F. Ozcan, H. Pirahesh, E. Shekita, Y. Sismanis, S. Tata, Y. Tian. IBM Journal of Research and Development, 57(3/4), 2013.
 
 **Event-based Social Networks: Linking the Online and Offline Social Worlds** \
@@ -137,23 +137,23 @@ X. Liu, Q. He, Y. Tian, W. Lee, J. McPherson, J. Han. The 18th ACM SIGKDD Confer
 Y. Tian, S. Tatikonda, B. Reinwald. The 28th International Conference on Data Engineering (ICDE), 2012.
 
 **CoHadoop: Flexible Data Placement and Its Exploitation in Hadoop** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/colocation.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/colocation.pdf) \
 M. Eltabakh, Y. Tian, F. Ozcan, R. Gemulla, A. Krettek, J. McPherson. The Proceedings of the VLDB Endowment (PVLDB), 2011.
 
 **SystemML: Declarative Machine Learning on MapReduce** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/systemML.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/systemML.pdf) \
 A. Ghoting, R. Krishnamurthy, E. Pednault, B. Reinwald, V. Sindhwani, S. Tatikonda, Y. Tian, S. Vaithyanathan (authors are ordered alphabetically by last names). The 27th International Conference on Data Engineering (ICDE), 2011.
 
 **Interactive Graph Summarization (Book Chapter)** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/chapter15.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/chapter15.pdf) \
 Y. Tian, J. M. Patel. Chapter 15, Link Mining: Models, Algorithms and Applications, Springer, 2010.
 
 **A Comparison of Join Algorithms for Log Processing in MapReduce** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/hadoopjoin.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/hadoopjoin.pdf) \
 S. Blanas, J. M. Patel, V. Ercegovac, J. Rao, E. J. Shekita, Y. Tian. The 30th ACM SIGMOD International Conference on Management of Data (SIGMOD), 2010.
 
 **Discovery-Driven Graph Summarization** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/summarization2.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/summarization2.pdf) \
 N. Zhang, Y. Tian, J. M. Patel. The 26th International Conference on Data Engineering (ICDE), 2010.
 
 **Michigan Molecular Interactions R2: From Interacting Proteins to Pathways** \
@@ -161,7 +161,7 @@ N. Zhang, Y. Tian, J. M. Patel. The 26th International Conference on Data Engine
 G. Tarcea, T. Weymouth, A. Ade, A. Bookvich, J. Gao, V. Mahavisno, Z. Wright, A. Chapman, M. Jayapandian, A. Ozgur, Y. Tian, J. Cavalcoli, B. Mirel, J. Patel, D. Radev, B. Athey, D. States and H. V. Jagadish. Nucleic Acids Research 37 (Database issue):D642-6, 2009.
 
 **Querying Graph Databases** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/ytian_1.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/ytian_1.pdf) \
 Y. Tian. PhD Thesis, University of Michigan, 2008.
 
 **Periscope/GQ: A Graph Querying Toolkit** \

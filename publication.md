@@ -60,11 +60,11 @@ B. Hentschel, P. J. Haas, Y. Tian. The 21st International Conference on Extendin
 D. Yan, Y. Tian, J. Cheng. SpringerBriefs in Computer Science, Springer, 2017.
 
 **Hybrid Transactional/Analytical Processing: A Survey** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/sigmod-htaptut.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/sigmod-htaptut.pdf) \
 F. Özcan, Y. Tian, P. Tözün. The 37th ACM SIGMOD International Conference on Management of Data (SIGMOD), Tutorial, 2017.
 
 **Big Graph Analytics Platforms (Book)** \
-[\[PDF\]](http://www.vldb.org/pvldb/vol12/Yan-Vol7-DBS-056.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/Yan-Vol7-DBS-056.pdf) \
 D. Yan, Y. Bu, Y. Tian, A. Deshpande. Foundations and Trends in Databases, Vol. 7: No. 1-2, pp 1-195, 2017.
 
 **Evolving Databases for New-Gen Big Data Applications** \

@@ -7,7 +7,7 @@ title: Home
 ![portrit](https://humming80.github.io/YTian.jpg) 
 
 ## Welcome to Yuanyuan Tian's Home Page! 
-Yuanyuan is currently a Principal Scientist at Microsoft Gray Systems Lab and an ACM Distinguished Member. Before Microsoft, she was a Principal Research Staff Member at IBM Almaden Research Center. She received her PhD degree in Computer Science & Engineering in 2008 and MS degree in Computer Science & Engineering in 2005 both from University of Michigan, and BS degree in Computer Science & Technology with honor in 2003 from Peking University.
+Yuanyuan Tian is currently a Principal Scientist at Microsoft Gray Systems Lab and an ACM Distinguished Member. Before Microsoft, she was a Principal Research Staff Member at IBM Almaden Research Center. She received her PhD degree in Computer Science & Engineering in 2008 and MS degree in Computer Science & Engineering in 2005 both from University of Michigan, and BS degree in Computer Science & Technology with honor in 2003 from Peking University.
 
 [\[Download CV\]](https://humming80.github.io/CV_Tian.pdf)
 

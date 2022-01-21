@@ -78,6 +78,8 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 ### **Invited Talks & Panels**
 
+- Leading Women in Tech Q&A, Ontra, Jan 2022.
+
 - Women in DB round table (Panelist) VLDB 2021, Aug 2021
 
 - ICDE PhD Symposium Panel (Panelist) ICDE 2021, Apr 2021

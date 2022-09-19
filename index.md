@@ -15,6 +15,10 @@ Yuanyuan Tian is currently a Principal Scientist at Microsoft Gray Systems Lab a
 
 ### **Reseach Areas**
 
+Yuanyuan is currently co-leading the ML-for-Systems research efforts in GSL. Her other research interests include Systems for ML, HTAP, big data, and graph databases.
+
+### **Past Research**
+
 **SQL for Big Data**: Yuanyuan's work in this area includes SQL-on-Hadoop, Hybrid Warehouse (integration between Hadoop and Enterprise Data Warehouses), and HTAP (Hybrid Transactional and Analytical Processing) for Big Data. She collaborated closely with the IBM software group. Her work on SQL-on-Hadoop was tied to the IBM Db2 Big SQL product, and the Wildfire HTAP system she has co-developed has been released as the [IBM Db2 Event Store](https://www.ibm.com/products/db2-event-store) product.
 
 _Selected Papers_: HTAP for Big Data (VLDB'20, BigData'19, SIGMOD'19, EDBT'19, CIDR'17, SIGMOD'16 Demo), Hybrid Warehouses (TODS'16, EDBT'15), CoHadoop (PVLDB'11), Hadoop Joins (SIGMOD'10)
@@ -77,6 +81,8 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 - 2003 Rackham Graduate Fellowship, University of Michigan 
 
 ### **Invited Talks & Panels**
+
+- Towards Autonomous Data Services on Azure: A GSL Journey, Sky Seminar, UC Berkeley, Sep 2022
 
 - Leading Women in Tech Q&A, Ontra, Jan 2022.
 

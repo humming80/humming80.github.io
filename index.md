@@ -116,9 +116,9 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 ### **Professional Service**
 
-**Editor**: Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (since 2019), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
+**Editor**: Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (since 2019), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
 
-**Chair**: VLDB 2023 Industry Chair, EDBT 2023 Demo Chair, CIDR 2022 Diversity & Inclusion Chair, VLDB 2021 Demo Chair, IEEE BigData 2019 Industry and Government Chair, VLDB 2019 Workshop Chair, ICDE 2017 Demo Chair, CIKM 2013 Poster Chair
+**Chair**: VLDB 2023 Industry Chair, EDBT 2023 Demo Chair, CIDR 2023 Diversity & Inclusion Chair, CIDR 2022 Diversity & Inclusion Chair, VLDB 2021 Demo Chair, IEEE BigData 2019 Industry and Government Chair, VLDB 2019 Workshop Chair, ICDE 2017 Demo Chair, CIKM 2013 Poster Chair
 
 **Workshop Chair**: 3rd Workshop on Large Scale Network Analysis (LSNA 2014), 5th Workshop on Graph Data Management (GDM 2014), 2nd Workshop on Large Scale Network Analysis (LSNA 2013), 4th Workshop on Graph Data Management (GDM 2013), 1st Workshop on Large Scale Network Analysis (LSNA 2012)
 
@@ -131,7 +131,7 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 - NSF Career Mentoring Panel, ICDE 2012.
 My 2 cents on [How to Be Competitive for Industrial Research Jobs](https://www.slideshare.net/ytian1/research-job-41535070) presented in this career panel.
 
-**PC Member**: SIGMOD 2022 Industry Track, CIDR 2022, CIDR 2021, VLDB 2020 Demo Track, SIGMOD 2020, VLDB 2019, SIGMOD 2018, VLDB 2017, VLDB 2016 Industrial Track, TKDE 2016 Poster Track, VLDB 2015, ICDE 2014, WISE 2013, SIGMOD 2012, GDM 2012, VLDB 2011 Industrial Track, DBSocial 2011, GDM 2011, ICDE 2011, GDM 2010, VLDB 2009.
+**PC Member**: CIDR 2023, SIGMOD 2023 Industry Track, SIGMOD 2022 Industry Track, CIDR 2022, CIDR 2021, VLDB 2020 Demo Track, SIGMOD 2020, VLDB 2019, SIGMOD 2018, VLDB 2017, VLDB 2016 Industrial Track, TKDE 2016 Poster Track, VLDB 2015, ICDE 2014, WISE 2013, SIGMOD 2012, GDM 2012, VLDB 2011 Industrial Track, DBSocial 2011, GDM 2011, ICDE 2011, GDM 2010, VLDB 2009.
 
 **Reviewer for Journals**: VLDB Journal (2014, 2017), TODS (2013, 2015), Statistical Analysis and Data Mining (2009), Information System (2010, 2011, 2013), ACM Transactions on Intelligent Systems and Technology (2010), Distributed and Parallel Databases (2012).
 

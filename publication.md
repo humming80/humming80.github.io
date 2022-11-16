@@ -7,6 +7,9 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 ## Selected Publications
 
+**The World of Graph Databases from An Industry Perspective** \
+Y. Tian. SIGMOD Record, 2022.
+
 **Db2 Event Store: A Purpose-Built IoT Database Engine** \
 [\[PDF\]](https://humming80.github.io/papers/eventStore.pdf) \
 C. Garcia-Arellano, A. Storm, D. Kalmuk, H. Roumani, R. Barber, Y. Tian, R. Sidle, F. Ozcan, M. Spilchen, J. Tiefenbach, D. Zilio, L. Pham, K. Rakopoulos, A. Cheung, D. Pepper, I. Sayyid, G. Gershinsky, G. Lushi, H. Pirahesh. The Proceedings of the VLDB Endowment (PVLDB), Industry Paper, 2020.

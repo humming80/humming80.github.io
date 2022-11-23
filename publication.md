@@ -9,7 +9,7 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 **The World of Graph Databases from An Industry Perspective** \
 [\[PDF\]](https://humming80.github.io/papers/graphSurvey.pdf) \
-Y. Tian. SIGMOD Record, 2022.
+Y. Tian. SIGMOD Record (to appear), 2022.
 
 **Db2 Event Store: A Purpose-Built IoT Database Engine** \
 [\[PDF\]](https://humming80.github.io/papers/eventStore.pdf) \

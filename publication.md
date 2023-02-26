@@ -7,9 +7,12 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 ## Selected Publications
 
+**Exact PPS Sampling with Bounded Sample Size** \
+B. Hentschel, P. J. Haas, Y. Tian. Information Processing Letters, 2023.
+
 **The World of Graph Databases from An Industry Perspective** \
 [\[PDF\]](https://humming80.github.io/papers/graphSurvey.pdf) \
-Y. Tian. SIGMOD Record (to appear), 2022.
+Y. Tian. ACM SIGMOD Record 51 (4), 60-67, 2022.
 
 **Db2 Event Store: A Purpose-Built IoT Database Engine** \
 [\[PDF\]](https://humming80.github.io/papers/eventStore.pdf) \

@@ -8,6 +8,7 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 ## Selected Publications
 
 **Exact PPS Sampling with Bounded Sample Size** \
+[\[PDF\]](https://humming80.github.io/papers/EBPPS.pdf) \
 B. Hentschel, P. J. Haas, Y. Tian. Information Processing Letters, 2023.
 
 **The World of Graph Databases from An Industry Perspective** \

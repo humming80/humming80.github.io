@@ -11,9 +11,9 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3592980.3595321) \
 R. Sen, Y. Tian. DaMoN, 2023. _(DaMoN 2023 Best Short Paper Award)_
 
-**Exact PPS Sampling with Bounded Sample Size** \
-[\[PDF\]](https://humming80.github.io/papers/EBPPS.pdf) \
-B. Hentschel, P. J. Haas, Y. Tian. Information Processing Letters, 2023.
+**Towards Building Autonomous Data Services on Azure** \
+[\[PDF\]](https://dl.acm.org/doi/10.1145/3555041.3589674) \
+Y. Zhu, Y. Tian, J. Cahoon, S. Krishnan, A. Agarwal, R. Alotaibi, J. Camacho-Rodríguez, B. Chundatt, A. Chung, N. Dutta, A. Fogarty, A. Gruenheid, B. Haynes, M. Interlandi, M. Iyer, N. Jurgens, S. Khushalani, B. Kroth, M. Kumar, J. Leeka, S. Matusevych, M. Mittal, A. Mueller, K. Muthyala, H. Nagulapalli, Y. Park, H. Patel, A. Pavlenko, O. Poppe, S. Ravindran, K. Saur, R. Sen, S. Suh, A. Tarafdar, K. Waghray, D., C. Curino, R. Ramakrishnan, Industry Paper, 2023.
 
 **Exact PPS Sampling with Bounded Sample Size** \
 [\[PDF\]](https://humming80.github.io/papers/EBPPS.pdf) \

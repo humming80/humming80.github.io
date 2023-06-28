@@ -7,6 +7,14 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 ## Selected Publications
 
+**Microarchitectural Analysis of Graph BI Queries on RDBMS** \
+[\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3592980.3595321) \
+R. Sen, Y. Tian. DaMoN, 2023. _(DaMoN 2023 Best Short Paper Award)_
+
+**Exact PPS Sampling with Bounded Sample Size** \
+[\[PDF\]](https://humming80.github.io/papers/EBPPS.pdf) \
+B. Hentschel, P. J. Haas, Y. Tian. Information Processing Letters, 2023.
+
 **Exact PPS Sampling with Bounded Sample Size** \
 [\[PDF\]](https://humming80.github.io/papers/EBPPS.pdf) \
 B. Hentschel, P. J. Haas, Y. Tian. Information Processing Letters, 2023.

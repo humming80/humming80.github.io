@@ -84,7 +84,7 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 ### **Invited Talks & Panels**
 
-- The World of Graph Databases from An Industry Perspective, [Youtube Video\]](https://www.youtube.com/watch?v=AZuP_b95GPM), 16th LDBC TUC meeting, Jun 2023
+- The World of Graph Databases from An Industry Perspective, [\[Youtube Video\]](https://www.youtube.com/watch?v=AZuP_b95GPM), 16th LDBC TUC meeting, Jun 2023
 
 - FinBench panel (Panelist), 16th LDBC TUC meeting, Jun 2023
 

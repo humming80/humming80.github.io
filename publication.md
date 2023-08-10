@@ -9,7 +9,7 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 **Microarchitectural Analysis of Graph BI Queries on RDBMS** \
 [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3592980.3595321) \
-R. Sen, Y. Tian. DaMoN, 2023. _(DaMoN 2023 Best Short Paper Award)_
+R. Sen, Y. Tian. DaMoN, 2023. _(**DaMoN 2023 Best Short Paper Award**)_
 
 **Towards Building Autonomous Data Services on Azure** \
 [\[PDF\]](https://dl.acm.org/doi/10.1145/3555041.3589674) [\[Presentation\]](https://iframe.videodelivery.net/eyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIxN2I5OTYxMTI2OTMxZDdkOWM1MWQ3N2FiMTdlNWRhZSIsImtpZCI6IjdiODM1ODc0NmU1YmY0MzQyNjljMTBlNjAwODRmNWJiIiwiZXhwIjoxNjkxNzI2ODc4fQ.H3fbK-5ICsuredv5l2ueEhupKQ8FslmK7P75BpJxkYI2IQdCTbmYpbj3GTVbRk2aDiYjJF9RLGHXnwYnyl_wWV9aY2PIY0-uHu8DP6wlvd7FTE4hM7UWukjn-Dj06gO6jjoT1IkGho4yk7ePiNH9qWg_FN6JV5iIr1wRODYiKGpbF5Y7Y-LaaiuRHz7Tbg2I5LBX1UqRmGhP2PPTf6mT_LJMNz3UGqLRhfMrKVyeLvPz4sF2mrr0XShQcpU7lxG4Lek7Fz1tZPDEN11cHHckVcC4CP1meHFuJibLlh9WNXBQeBDemToOcA9vDDBtuikw4DxkwRup1KrqMA0ePOJCwA?poster=https%3A%2F%2Fvideodelivery.net%2FeyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIxN2I5OTYxMTI2OTMxZDdkOWM1MWQ3N2FiMTdlNWRhZSIsImtpZCI6IjdiODM1ODc0NmU1YmY0MzQyNjljMTBlNjAwODRmNWJiIiwiZXhwIjoxNjkxNzI2ODc4fQ.H3fbK-5ICsuredv5l2ueEhupKQ8FslmK7P75BpJxkYI2IQdCTbmYpbj3GTVbRk2aDiYjJF9RLGHXnwYnyl_wWV9aY2PIY0-uHu8DP6wlvd7FTE4hM7UWukjn-Dj06gO6jjoT1IkGho4yk7ePiNH9qWg_FN6JV5iIr1wRODYiKGpbF5Y7Y-LaaiuRHz7Tbg2I5LBX1UqRmGhP2PPTf6mT_LJMNz3UGqLRhfMrKVyeLvPz4sF2mrr0XShQcpU7lxG4Lek7Fz1tZPDEN11cHHckVcC4CP1meHFuJibLlh9WNXBQeBDemToOcA9vDDBtuikw4DxkwRup1KrqMA0ePOJCwA%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D10.0s) \
@@ -40,11 +40,11 @@ A. Quamar, J. Straube, Y. Tian. CIDR, 2020.
 R. Barber, C. Garcia-Arellano, R. Grosman, G. Lohman, C. Mohan, R. Muller, H. Pirahesh, V. Raman, R. Sidle, A. Storm, Y. Tian, P. Tozun, and Y. Wu. IEEE BigData, 2019.
 
 **General Temporally-Biased Sampling Schemes for Online Model Management** \
-B. Hentschel, P. Haas, Y. Tian. TODS, 2019. _(Invited as Best of EDBT 2018)_
+B. Hentschel, P. Haas, Y. Tian. TODS, 2019. _(**Invited as Best of EDBT 2018**)_
 
 **Online Model Management via Temporally Biased Sampling** \
 [\[PDF\]](https://sigmodrecord.org/publications/sigmodRecord/1903/pdfs/18_omm-hentschel.pdf) \
-B. Hentschel, P. Haas, Y. Tian. SIGMOD Record, 2019. _(SIGMOD Record Research Highlight Award)_
+B. Hentschel, P. Haas, Y. Tian. SIGMOD Record, 2019. _(**SIGMOD Record Research Highlight Award**)_
 
 **HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration** \
 [\[PDF\]](http://www.vldb.org/pvldb/vol12/p1882-wu.pdf) \
@@ -70,7 +70,7 @@ R. Barber, V. Raman, R. Sidle, Y. Tian, P. Tozun. Encyclopedia of Big Data Techn
 
 **Temporally-Biased Sampling for Online Model Management** \
 [\[PDF\]](https://humming80.github.io/papers/paper-tbs.pdf) [\[Long Paper\]](https://arxiv.org/abs/1801.09709) \
-B. Hentschel, P. J. Haas, Y. Tian. The 21st International Conference on Extending Database Technology (EDBT), 2018. _(EDBT 2018 Best Paper Award)_
+B. Hentschel, P. J. Haas, Y. Tian. The 21st International Conference on Extending Database Technology (EDBT), 2018. _(**EDBT 2018 Best Paper Award**)_
 
 **Systems for Big Graph Analytics (Book)** \
 D. Yan, Y. Tian, J. Cheng. SpringerBriefs in Computer Science, Springer, 2017.
@@ -89,7 +89,7 @@ C. Garcia-Arellano, R. Barber, M. Huras, R. Grosman, C. Mohan, R. Mueller, F. Ö
 
 **Building a Hybrid Warehouse: Efficient Joins Between Data Stored in HDFS and Enterprise Warehouse** \
 [\[PDF\]](https://humming80.github.io/papers/published_tods.pdf) [\[Slides\]](https://www.slideshare.net/ytian1/building-a-hybrid-warehouse-efficient-joins-between-data-stored-in-hdfs-and-enterprise-data-warehouse-edw) \
-Y. Tian, F. Ozcan, T. Zou, R. Goncalves, H. Pirahesh. ACM Transactions on Database Systems (TODS), 2016. _(Invited as Best of EDBT 2015)_
+Y. Tian, F. Ozcan, T. Zou, R. Goncalves, H. Pirahesh. ACM Transactions on Database Systems (TODS), 2016. _(**Invited as Best of EDBT 2015**)_
 
 **Wildfire: Concurrent Blazing Data Ingest and Analytics** \
 [\[PDF\]](https://humming80.github.io/papers/wildfire.pdf) \
@@ -106,7 +106,7 @@ B. Huang, M. Boehm, Y. Tian, B. Reinwald, S. Tatikonda, F. R. Reiss. The 35th AC
 
 **Joins for Hybrid Warehouses: Exploiting Massive Parallelism in Hadoop and Enterprise Data Warehouses** \
 [\[PDF\]](https://humming80.github.io/papers/bigjoin.pdf) \
-Y. Tian, T. Zou, F. Ozcan, R. Goncalves, H. Pirahesh. The 18th International Conference on Extending Database Technology (EDBT), 2015. _(Best of EDBT 2015)_
+Y. Tian, T. Zou, F. Ozcan, R. Goncalves, H. Pirahesh. The 18th International Conference on Extending Database Technology (EDBT), 2015. _(**Best of EDBT 2015**)_
 
 **A Generic Solution to Integrate SQL and Analytics for Big Data** \
 [\[PDF\]](https://humming80.github.io/papers/bigintegration.pdf) \
@@ -134,7 +134,7 @@ B. Bi, Y. Tian, Y. Sismanis, A. Balmin, J. Cho. The 7th ACM Conference on Web Se
 
 **From "Think Like a Vertex" to "Think Like a Graph"** \
 [\[PDF\]](https://humming80.github.io/papers/giraph++.pdf) [\[Slides\]](https://www.slideshare.net/ytian1/giraph-from-think-like-a-vertex-to-think-like-a-graph) \
-Y. Tian, A. Balmin, S. A. Corsten, S. Tatikonda, J. McPherson. The Proceedings of the VLDB Endowment (PVLDB) 7(3), 2013. _(Best of VLDB 2014)_
+Y. Tian, A. Balmin, S. A. Corsten, S. Tatikonda, J. McPherson. The Proceedings of the VLDB Endowment (PVLDB) 7(3), 2013. _(**Best of VLDB 2014**)_
 
 **Compiling Machine Learning Algorithms with SystemML** \
 [\[PDF\]](https://humming80.github.io/papers/socc_ml.pdf) \

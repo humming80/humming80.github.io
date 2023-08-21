@@ -7,6 +7,12 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 ## Selected Publications
 
+**Optimizing Data Pipelines for Machine Learning in Feature Stores** \
+R. Liu, K. Park, F. Psallidas, X. Zhu, J. Mo, R. Sen, M. Interlandi, K. Karanasos, Y. Tian, J. Camacho-Rodríguez, VLDB, 2024.
+
+**GEqO: ML-Accelerated Semantic Equivalence Detection** \
+B. Haynes, R. Alotaibi, A. Pavlenko, J. Leeka, A. Jindal, Y. Tian. SIGMOD, 2024.
+
 **Microarchitectural Analysis of Graph BI Queries on RDBMS** \
 [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3592980.3595321) \
 R. Sen, Y. Tian. DaMoN, 2023. _(**DaMoN 2023 Best Short Paper Award**)_

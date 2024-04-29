@@ -10,6 +10,9 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 **Optimizing Data Pipelines for Machine Learning in Feature Stores** \
 R. Liu, K. Park, F. Psallidas, X. Zhu, J. Mo, R. Sen, M. Interlandi, K. Karanasos, Y. Tian, J. Camacho-Rodríguez, VLDB, 2024.
 
+**Sibyl: Forecasting Time-Evolving Query Workloads** \
+H. Huang, T Siddiqui, R. Alotaibi, C. Curino, J. Leeka, A. Jindal, J. Zhao, J. Camacho-Rodríguez, Y Tian, SIGMOD, 2024.
+
 **GEqO: ML-Accelerated Semantic Equivalence Detection** \
 B. Haynes, R. Alotaibi, A. Pavlenko, J. Leeka, A. Jindal, Y. Tian. SIGMOD, 2024.
 

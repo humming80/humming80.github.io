@@ -15,7 +15,7 @@ Yuanyuan Tian is currently a Principal Scientist at Microsoft Gray Systems Lab a
 
 ### **Reseach Areas**
 
-Yuanyuan is currently co-leading the ML-for-Systems research efforts in GSL. Her other research interests include Systems for ML, HTAP, big data, and graph databases.
+Yuanyuan is currently co-leading the ML-for-Systems and graph analytics research efforts in GSL. Her other research interests include Systems for ML, HTAP, big data, and query optimization.
 
 ### **Past Research**
 
@@ -82,23 +82,13 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 - 2003 Rackham Graduate Fellowship, University of Michigan 
 
-### **Invited Talks & Panels**
+### **Invited Talks**
 
 - The World of Graph Databases from An Industry Perspective, [\[Youtube Video\]](https://www.youtube.com/watch?v=AZuP_b95GPM), 16th LDBC TUC meeting, Jun 2023
-
-- FinBench panel (Panelist), 16th LDBC TUC meeting, Jun 2023
 
 - Towards Autonomous Data Services on Azure: A GSL Journey, Sky Seminar, UC Berkeley, Sep 2022
 
 - Leading Women in Tech Q&A, Ontra, Jan 2022.
-
-- Women in DB round table (Panelist) VLDB 2021, Aug 2021
-
-- ICDE PhD Symposium Panel (Panelist) ICDE 2021, Apr 2021
-
-- Round Table on Graph Databases (Panelist), VLDB 2020, Sep 2020
-
-- Deep Dive: In-Database Graph analytics with Db2 (Panelist), IBM DB2 Nebula (11.5.4) Webinar Series, Jun 2020
 
 - Db2 Graph Query Drill Down, Db2 Technical Advisory Board Meeting, Apr 2020
 
@@ -122,17 +112,20 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 ### **Professional Service**
 
-**Editor**: Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (since 2019), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
+**Editor**: Associate Editor for VLDB 2025, Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (since 2019), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
 
 **Chair**: EDBT 2025 Industrial & Application Chair, SoCC 2023 PC Chair, VLDB 2023 Industry Chair, EDBT 2023 Demo Chair, CIDR 2023 Diversity & Inclusion Chair, CIDR 2022 Diversity & Inclusion Chair, VLDB 2021 Demo Chair, IEEE BigData 2019 Industry and Government Chair, VLDB 2019 Workshop Chair, ICDE 2017 Demo Chair, CIKM 2013 Poster Chair
 
 **Workshop Chair**: 3rd Workshop on Large Scale Network Analysis (LSNA 2014), 5th Workshop on Graph Data Management (GDM 2014), 2nd Workshop on Large Scale Network Analysis (LSNA 2013), 4th Workshop on Graph Data Management (GDM 2013), 1st Workshop on Large Scale Network Analysis (LSNA 2012)
 
 **Panelist**:
+- The Future of Graph Analytics (Panelist), SIGMOD 2024, June 2024.
+- AI for Systems (Panelist), SIGMOD 2024, June 2024.
 - FinBench panel (Panelist), 16th LDBC TUC meeting, Jun 2023.
 - Women in DB round table (Panelist) VLDB 2021, Aug 2021.
 - ICDE PhD Symposium Panel (Panelist) ICDE 2021, Apr 2021.
 - Round Table on Graph Databases, VLDB 2020.
+- Deep Dive: In-Database Graph analytics with Db2 (Panelist), IBM DB2 Nebula (11.5.4) Webinar Series, Jun 2020.
 - “Women in DB: Experiences and Perspectives” event, Organizer, SIGMOD 2020.
 - NSF Advisory Panel, 2013 & 2016.
 - NSF Career Mentoring Panel, ICDE 2012.

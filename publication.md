@@ -25,7 +25,7 @@ R. Sen, Y. Tian. DaMoN, 2023. _(**DaMoN 2023 Best Short Paper Award**)_
 Y. Zhu, Y. Tian, J. Cahoon, S. Krishnan, A. Agarwal, R. Alotaibi, J. Camacho-Rodríguez, B. Chundatt, A. Chung, N. Dutta, A. Fogarty, A. Gruenheid, B. Haynes, M. Interlandi, M. Iyer, N. Jurgens, S. Khushalani, B. Kroth, M. Kumar, J. Leeka, S. Matusevych, M. Mittal, A. Mueller, K. Muthyala, H. Nagulapalli, Y. Park, H. Patel, A. Pavlenko, O. Poppe, S. Ravindran, K. Saur, R. Sen, S. Suh, A. Tarafdar, K. Waghray, D., C. Curino, R. Ramakrishnan, Industry Paper, SIGMOD, 2023.
 
 **Exact PPS Sampling with Bounded Sample Size** \
-[\[PDF\]](https://humming80.github.io/papers/EBPPS.pdf) \
+[\[PDF\]](https://humming80.github.io/papers/EBPPS.pdf) \[Implemented in Apache DataSketches (thanks to Jon Malkin)\](https://apache.github.io/datasketches-cpp/master/classdatasketches_1_1ebpps__sketch.html)\
 B. Hentschel, P. J. Haas, Y. Tian. Information Processing Letters, 2023.
 
 **The World of Graph Databases from An Industry Perspective** \

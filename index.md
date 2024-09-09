@@ -84,6 +84,8 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 ### **Invited Talks**
 
+- Towards Autonomous Data Services on Azure, Microsoft Sponor Talk, VLDB 2024, Aug 2024.
+
 - The World of Graph Databases from An Industry Perspective, [\[Youtube Video\]](https://www.youtube.com/watch?v=AZuP_b95GPM), 16th LDBC TUC meeting, Jun 2023
 
 - Towards Autonomous Data Services on Azure: A GSL Journey, Sky Seminar, UC Berkeley, Sep 2022
@@ -119,6 +121,7 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 **Workshop Chair**: 3rd Workshop on Large Scale Network Analysis (LSNA 2014), 5th Workshop on Graph Data Management (GDM 2014), 2nd Workshop on Large Scale Network Analysis (LSNA 2013), 4th Workshop on Graph Data Management (GDM 2013), 1st Workshop on Large Scale Network Analysis (LSNA 2012)
 
 **Panelist**:
+- PhD Mentoring Panel (Moderator), VLDB 2024, August 2024. 
 - The Future of Graph Analytics, SIGMOD 2024, June 2024.
 - AI for Systems, SIGMOD 2024, June 2024.
 - FinBench Panel, 16th LDBC TUC meeting, Jun 2023.

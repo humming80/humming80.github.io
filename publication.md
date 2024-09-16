@@ -7,8 +7,14 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 ## Selected Publications
 
+**MLOS in Action: Bridging the Gap Between Experimentation and Auto-Tuning in the Cloud** \
+B. Kroth, S. Matusevych, R. Alotaibi, Y. Zhu, A. Gruenheid, Y. Tian, VLDB, 2024.
+
 **Optimizing Data Pipelines for Machine Learning in Feature Stores** \
 R. Liu, K. Park, F. Psallidas, X. Zhu, J. Mo, R. Sen, M. Interlandi, K. Karanasos, Y. Tian, J. Camacho-Rodríguez, VLDB, 2024.
+
+**The Future of Graph Analytics** \
+A. Bonifati, T. Özsu, Y. Tian, H. Voigt, W. Yu, SIGMOD, 2024.
 
 **Sibyl: Forecasting Time-Evolving Query Workloads** \
 H. Huang, T Siddiqui, R. Alotaibi, C. Curino, J. Leeka, A. Jindal, J. Zhao, J. Camacho-Rodríguez, Y Tian, SIGMOD, 2024.

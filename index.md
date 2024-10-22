@@ -84,6 +84,8 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 ### **Invited Talks**
 
+- Graph Databases and AI, interview by Kyle Polich on [Data Skeptic][https://dataskeptic.com/] Podcast, October 21, 2025. Listen [here][https://dataskeptic.com/blog/episodes/2024/graph-databases-and-ai] or wherever you listen to podcasts.
+
 - Towards Autonomous Data Services on Azure, Microsoft Sponor Talk, VLDB 2024, Aug 2024.
 
 - The World of Graph Databases from An Industry Perspective, [\[Youtube Video\]](https://www.youtube.com/watch?v=AZuP_b95GPM), 16th LDBC TUC meeting, Jun 2023

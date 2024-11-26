@@ -19,13 +19,15 @@ Yuanyuan is currently leading the graph queries & analytics, query/workload opti
 
 **Graph Queries and Analytics**: Yuanyuan has long standing interests in graph queries and analytics. She has written two books and 20+ papers on graphs. Her current research includes building scale-out graph query and analytics platforms and designing distributed graph algorithms. Yuanyuan is a currently a Graph Architect working with Azure data product teams and the LIquid team at Linkedin on various graph projects. She was the founder and technical lead of [IBM Db2 Graph](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-db2w/db2w-graph-ovu.html), which is IBM's graph database product. Her PhD thesis was on querying graph databases. 
  
-_Selected Papers_: Graph BI Queries Benchmarking (DaMoN'23), Survey on graph databases(SIGMOD Record'22), IBM Db2 Graph (SIGMOD'20, VLDB'19), Dynamic Graph Analysis (ICDE'15), Giraph++ (PVLDB'13), Graph Summarization (CIKM'14, ICDE'10, SIGMOD'08), Graph Matching (ICDE'08, Bioinformatics'07)
+_Selected Papers_: Graph Databases Survey (SIGMOD Record'22), Graph BI Queries Benchmarking (DaMoN'23), IBM Db2 Graph (SIGMOD'20, VLDB'19), Dynamic Graph Analysis (ICDE'15), Giraph++ (PVLDB'13), Graph Summarization (CIKM'14, ICDE'10, SIGMOD'08), Graph Matching (ICDE'08, Bioinformatics'07)
 
 **Query/Workload Optimization**: Yuanyuan and her team approach the classical query optimization (QO) problem from a fresh perspective, proposing a bold shift in direction. Instead of relying on bespoke QOs or library-sharing frameworks like Calcite, they advocate for reimagining the QO stack by fully embracing Query Optimizer as a Service (QOaaS). This approach decouples the QO from the engine’s query processing, enabling independent deployment and experimentation. QOaaS centralizes workload-level optimizations such as index/view selection and ML-driven QO enhancements, accelerates development by sharing costs across engines, and lays the foundation for multi-engine federation, where each query sub-plan is executed by the most optimal engine.
 
 _Selected Papers_: QOaaS Vision (CIDR'25), Workload Forecasting (SIGMOD'24).
 
-**System Support for Machine Learning**: Yuanyuan
+**ML-for-Systems**: Yuanyuan is co-leading the ML-for-Systems research area in GSL. She and her team work with various Azure data product teams on applying data-driven approaches to automate many aspects of data services on Azure. They work spans cloud infrastructure, query engines, and service layers of the cloud stack, driving innovation and efficiency across the platform.
+
+_Selected Papers_: Autonomous Data Service Vision (SIGMOD'23), Cloud Tuning (VLDB'24), Semantic Equivalence Detection (SIGMOD'24).
 
 ### **Past Research**
 

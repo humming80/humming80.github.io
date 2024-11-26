@@ -33,7 +33,7 @@ B. Haynes, R. Alotaibi, A. Pavlenko, J. Leeka, A. Jindal, Y. Tian. SIGMOD, 2024.
 
 **Microarchitectural Analysis of Graph BI Queries on RDBMS** \
 [\[PDF\]](https://humming80.github.io/papers/graphBIbenchmark.pdf) \
-R. Sen, Y. Tian. DaMoN, 2023. _(**$$\color{blue}{DaMoN 2023 Best Short Paper Award}$$**)_
+R. Sen, Y. Tian. DaMoN, 2023. _(**$$\textcolor{blue}{DaMoN 2023 Best Short Paper Award}$$**)_
 
 **Towards Building Autonomous Data Services on Azure** \
 [\[PDF\]](https://humming80.github.io/papers/autoDB.pdf) [\[Presentation\]](https://www.youtube.com/watch?v=NMnqDaXs-9w) \

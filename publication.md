@@ -7,6 +7,9 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 ## Selected Publications
 
+**Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse Ecosystem: Can One QO Rule Them All?** \
+R. Alotaibi, Y. Tian, S. Grafberger, J. Camacho-Rodr\'iguez, N. Bruno, B. Kroth, S. Matusevych, A. Agrawal, M. Behera, A Gosalia, C. Galindo-Legaria, M. Joshi, M. Potocnik, B. Sezgin, X. Li, C. Curino, CIDR, 2025.
+
 **MLOS in Action: Bridging the Gap Between Experimentation and Auto-Tuning in the Cloud** \
 B. Kroth, S. Matusevych, R. Alotaibi, Y. Zhu, A. Gruenheid, Y. Tian, VLDB, 2024.
 

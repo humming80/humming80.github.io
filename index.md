@@ -25,19 +25,19 @@ _Selected Papers_: Graph Databases Survey (SIGMOD Record'22), Graph BI Queries B
 
 _Selected Papers_: QOaaS Vision (CIDR'25), Workload Forecasting (SIGMOD'24).
 
-**ML-for-Systems**: Yuanyuan is co-leading the ML-for-Systems research area in GSL. She and her team work with various Azure data product teams on applying data-driven approaches to automate many aspects of data services on Azure. They work spans cloud infrastructure, query engines, and service layers of the cloud stack, driving innovation and efficiency across the platform.
+**ML-for-Systems**: Yuanyuan is co-leading the ML-for-Systems research area in GSL. She and her team work with various Azure data product teams on applying data-driven approaches to automate many aspects of data services on Azure. Their work spans cloud infrastructure, query engines, and service layers of the cloud stack, driving innovation and efficiency across the platform.
 
-_Selected Papers_: Autonomous Data Service Vision (SIGMOD'23), Cloud Tuning (VLDB'24), Semantic Equivalence Detection (SIGMOD'24).
+_Selected Papers_: Autonomous Data Service Vision (SIGMOD'23), MLOS (VLDB'24), Semantic Equivalence Detection (SIGMOD'24).
 
-### **Past Research**
+### ***Past Research***
 
-**SQL for Big Data**: Yuanyuan's work in this area includes SQL-on-Hadoop, Hybrid Warehouse (integration between Hadoop and Enterprise Data Warehouses), and HTAP (Hybrid Transactional and Analytical Processing) for Big Data. She collaborated closely with the IBM software group. Her work on SQL-on-Hadoop was tied to the IBM Db2 Big SQL product, and the Wildfire HTAP system she has co-developed has been released as the [IBM Db2 Event Store](https://www.ibm.com/products/db2-event-store) product.
+***SQL for Big Data***: Yuanyuan's work in this area includes SQL-on-Hadoop, Hybrid Warehouse (integration between Hadoop and Enterprise Data Warehouses), and HTAP (Hybrid Transactional and Analytical Processing) for Big Data. She collaborated closely with the IBM software group. Her work on SQL-on-Hadoop was tied to the IBM Db2 Big SQL product, and the Wildfire HTAP system she has co-developed has been released as the [IBM Db2 Event Store](https://www.ibm.com/products/db2-event-store) product.
 
 _Selected Papers_: HTAP for Big Data (VLDB'20, BigData'19, SIGMOD'19, EDBT'19, CIDR'17, SIGMOD'16 Demo), Hybrid Warehouses (TODS'16, EDBT'15), CoHadoop (PVLDB'11), Hadoop Joins (SIGMOD'10)
 
-**System Support for Machine Learning**: Yuanyuan is the co-inventor and a lead developer for a large-scale machine learning system, called SystemML. It is now a top-level [Apache open source project](http://systemds.apache.org/). Recently, she has worked on integrating big SQL and big ML systems, and designing novel distributed time-biased sampling algorithms for online ML model management.
+***System Support for Machine Learning***: Yuanyuan is the co-inventor and a lead developer for a large-scale machine learning system, called SystemML. It is now a top-level [Apache open source project](http://systemds.apache.org/). Recently, she has worked on integrating big SQL and big ML systems, and designing novel distributed time-biased sampling algorithms for online ML model management.
 
-_Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIGMOD Record'19, EDBT'18), Integration of SQL and ML (EDBT'15), SystemML on YARN (SIGMOD'15), SystemML Optimizer (IEEE DE Bulletin'14), ParFor in SystemML (PVLDB'14), Numerical Stability in SystemML (ICDE'12), SystemML Archtecture (ICDE'11).
+_Selected Papers_: Time-biased Sampling for Online Model Mangement (Information Processing Letters'23, TODS'19, SIGMOD Record'19, EDBT'18), Integration of SQL and ML (EDBT'15), SystemML on YARN (SIGMOD'15), SystemML Optimizer (IEEE DE Bulletin'14), ParFor in SystemML (PVLDB'14), Numerical Stability in SystemML (ICDE'12), SystemML Archtecture (ICDE'11).
 
 ### **Selected Awards**
 

@@ -7,7 +7,7 @@ title: Home
 ![portrit](https://humming80.github.io/YTian.jpg) 
 
 ## Welcome to Yuanyuan Tian's Home Page! 
-Yuanyuan Tian is currently a Principal Scientist at Microsoft Gray Systems Lab and an ACM Distinguished Member. Before Microsoft, she was a Principal Research Staff Member at IBM Almaden Research Center. She received her PhD degree in Computer Science & Engineering in 2008 and MS degree in Computer Science & Engineering in 2005 both from University of Michigan, and BS degree in Computer Science & Technology with honor in 2003 from Peking University.
+Yuanyuan Tian is currently a Principal Scientist and a Graph Architect at Microsoft Gray Systems Lab and an ACM Distinguished Member. Before Microsoft, she was a Principal Research Staff Member at IBM Almaden Research Center. She received her PhD degree in Computer Science & Engineering in 2008 and MS degree in Computer Science & Engineering in 2005 both from University of Michigan, and BS degree in Computer Science & Technology with honor in 2003 from Peking University.
 
 [\[Download CV\]](https://humming80.github.io/CV_Tian.pdf)
 
@@ -15,20 +15,20 @@ Yuanyuan Tian is currently a Principal Scientist at Microsoft Gray Systems Lab a
 
 ### **Reseach Areas**
 
-Yuanyuan is currently co-leading the ML-for-Systems and graph analytics research efforts in GSL. Her other research interests include Systems for ML, HTAP, big data, and query optimization.
+Yuanyuan is currently co-leading the graph query & analytics, query/workload optimization, and ML-for-Systems research efforts in GSL. Her other research interests include Systems for ML, HTAP, big data, and cloud computing.
+
+**Graph Query and Analytics**: Yuanyuan has long standing interests in graph query and analytics. She has written two books on large scale graph processing. Her current research includes building scale-out graph query and analytics platforms and designing distributed graph algorithms. Her PhD thesis was on querying graph databases. Yuanyuan is a currently a Graph Architect working with Azure data product teams and the LIquid team at Linkedin on various graph projects. She was the founder and technical lead of [IBM Db2 Graph](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-db2w/db2w-graph-ovu.html), which is IBM's graph database solution.
+ 
+
+_Graph Processing/Databases Papers_: IBM Db2 Graph (SIGMOD'20, VLDB'19), Dynamic Graph Analysis (ICDE'15), Giraph++ (PVLDB'13), Graph Summarization (CIKM'14, ICDE'10, SIGMOD'08), Graph Matching (ICDE'08, Bioinformatics'07)
+
+_Social Network Analysis Papers_: Topic-Specific Influence Analysis (WSDM'14), Event-Based Social Network (SIGKDD'12).
 
 ### **Past Research**
 
 **SQL for Big Data**: Yuanyuan's work in this area includes SQL-on-Hadoop, Hybrid Warehouse (integration between Hadoop and Enterprise Data Warehouses), and HTAP (Hybrid Transactional and Analytical Processing) for Big Data. She collaborated closely with the IBM software group. Her work on SQL-on-Hadoop was tied to the IBM Db2 Big SQL product, and the Wildfire HTAP system she has co-developed has been released as the [IBM Db2 Event Store](https://www.ibm.com/products/db2-event-store) product.
 
 _Selected Papers_: HTAP for Big Data (VLDB'20, BigData'19, SIGMOD'19, EDBT'19, CIDR'17, SIGMOD'16 Demo), Hybrid Warehouses (TODS'16, EDBT'15), CoHadoop (PVLDB'11), Hadoop Joins (SIGMOD'10)
-
-**Graph Analytics**: Yuanyuan has long standing interests in graph analytics. She has written two books on large scale graph processing. Her current research includes building distributed graph-processing systems, designing distributed graph algorithms, and social network analysis. Her PhD thesis was on querying graph databases. She was the founder and technical lead of a project on supporting graph analytics inside relational databases, which is released as [IBM Db2 Graph](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-db2w/db2w-graph-ovu.html).
- 
-
-_Graph Processing/Databases Papers_: IBM Db2 Graph (SIGMOD'20, VLDB'19), Dynamic Graph Analysis (ICDE'15), Giraph++ (PVLDB'13), Graph Summarization (CIKM'14, ICDE'10, SIGMOD'08), Graph Matching (ICDE'08, Bioinformatics'07)
-
-_Social Network Analysis Papers_: Topic-Specific Influence Analysis (WSDM'14), Event-Based Social Network (SIGKDD'12).
 
 **System Support for Machine Learning**: Yuanyuan is the co-inventor and a lead developer for a large-scale machine learning system, called SystemML. It is now a top-level [Apache open source project](http://systemds.apache.org/). Recently, she has worked on integrating big SQL and big ML systems, and designing novel distributed time-biased sampling algorithms for online ML model management.
 
@@ -84,6 +84,8 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 ### **Invited Talks**
 
+- Towards Autonomous Data Services on Azure, Learning Directed Operating System (LDOS) Symposium, November 2024.
+  
 - Graph Databases and AI, interview by Kyle Polich on [Data Skeptic](https://dataskeptic.com/) Podcast, October 21, 2025. Listen [here](https://dataskeptic.com/blog/episodes/2024/graph-databases-and-ai) or wherever you listen to podcasts.
 
 - Towards Autonomous Data Services on Azure, Microsoft Sponor Talk, VLDB 2024, Aug 2024.
@@ -118,7 +120,7 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (TODS'19, SIG
 
 **Editor**: Associate Editor for VLDB 2025, Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (since 2019), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
 
-**Chair**: EDBT 2025 Industrial & Application Chair, SoCC 2023 PC Chair, VLDB 2023 Industry Chair, EDBT 2023 Demo Chair, CIDR 2023 Diversity & Inclusion Chair, CIDR 2022 Diversity & Inclusion Chair, VLDB 2021 Demo Chair, IEEE BigData 2019 Industry and Government Chair, VLDB 2019 Workshop Chair, ICDE 2017 Demo Chair, CIKM 2013 Poster Chair
+**Chair**: VLDB 2025 DEI Chair, EDBT 2025 Industrial & Application Chair, SoCC 2023 PC Chair, VLDB 2023 Industry Chair, EDBT 2023 Demo Chair, CIDR 2023 Diversity & Inclusion Chair, CIDR 2022 Diversity & Inclusion Chair, VLDB 2021 Demo Chair, IEEE BigData 2019 Industry and Government Chair, VLDB 2019 Workshop Chair, ICDE 2017 Demo Chair, CIKM 2013 Poster Chair
 
 **Workshop Chair**: 3rd Workshop on Large Scale Network Analysis (LSNA 2014), 5th Workshop on Graph Data Management (GDM 2014), 2nd Workshop on Large Scale Network Analysis (LSNA 2013), 4th Workshop on Graph Data Management (GDM 2013), 1st Workshop on Large Scale Network Analysis (LSNA 2012)
 

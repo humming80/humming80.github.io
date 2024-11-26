@@ -15,14 +15,11 @@ Yuanyuan Tian is currently a Principal Scientist Manager and a Graph Architect a
 
 ### **Reseach Areas**
 
-Yuanyuan is currently co-leading the graph query & analytics, query/workload optimization, and ML-for-Systems research efforts in GSL. Her other research interests include Systems for ML, HTAP, big data, and cloud computing.
+Yuanyuan is currently leading the graph queries & analytics, query/workload optimization, and ML-for-Systems research efforts in GSL. Her other research interests include Systems-for-ML, HTAP, big data, and cloud computing.
 
-**Graph Query and Analytics**: Yuanyuan has long standing interests in graph query and analytics. She has written two books on large scale graph processing. Her current research includes building scale-out graph query and analytics platforms and designing distributed graph algorithms. Her PhD thesis was on querying graph databases. Yuanyuan is a currently a Graph Architect working with Azure data product teams and the LIquid team at Linkedin on various graph projects. She was the founder and technical lead of [IBM Db2 Graph](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-db2w/db2w-graph-ovu.html), which is IBM's graph database solution.
+**Graph Queries and Analytics**: Yuanyuan has long standing interests in graph queries and analytics. She has written two books and 20+ papers on graphs. Her current research includes building scale-out graph query and analytics platforms and designing distributed graph algorithms. Yuanyuan is a currently a Graph Architect working with Azure data product teams and the LIquid team at Linkedin on various graph projects. She was the founder and technical lead of [IBM Db2 Graph](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-db2w/db2w-graph-ovu.html), which is IBM's graph database product. Her PhD thesis was on querying graph databases. 
  
-
-_Graph Processing/Databases Papers_: IBM Db2 Graph (SIGMOD'20, VLDB'19), Dynamic Graph Analysis (ICDE'15), Giraph++ (PVLDB'13), Graph Summarization (CIKM'14, ICDE'10, SIGMOD'08), Graph Matching (ICDE'08, Bioinformatics'07)
-
-_Social Network Analysis Papers_: Topic-Specific Influence Analysis (WSDM'14), Event-Based Social Network (SIGKDD'12).
+_Selected Papers_: Survey on graph databases(SIGMOD Record'22), Graph BI Queries Benchmarking (DaMoN'23), IBM Db2 Graph (SIGMOD'20, VLDB'19), Dynamic Graph Analysis (ICDE'15), Giraph++ (PVLDB'13), Graph Summarization (CIKM'14, ICDE'10, SIGMOD'08), Graph Matching (ICDE'08, Bioinformatics'07)
 
 ### **Past Research**
 

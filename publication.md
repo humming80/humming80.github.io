@@ -8,29 +8,35 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 ## Selected Publications
 
 **Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse Ecosystem: Can One QO Rule Them All?** \
+[\[PDF\]](https://humming80.github.io/papers/QOaaSVision-final.pdf) \
 R. Alotaibi, Y. Tian, S. Grafberger, J. Camacho-Rodr\'iguez, N. Bruno, B. Kroth, S. Matusevych, A. Agrawal, M. Behera, A Gosalia, C. Galindo-Legaria, M. Joshi, M. Potocnik, B. Sezgin, X. Li, C. Curino, CIDR, 2025.
 
 **MLOS in Action: Bridging the Gap Between Experimentation and Auto-Tuning in the Cloud** \
+[\[PDF\]](https://humming80.github.io/papers/mlosdemo.pdf) \
 B. Kroth, S. Matusevych, R. Alotaibi, Y. Zhu, A. Gruenheid, Y. Tian, VLDB, 2024.
 
 **Optimizing Data Pipelines for Machine Learning in Feature Stores** \
+[\[PDF\]](https://humming80.github.io/papers/featureStore.pdf) \
 R. Liu, K. Park, F. Psallidas, X. Zhu, J. Mo, R. Sen, M. Interlandi, K. Karanasos, Y. Tian, J. Camacho-Rodríguez, VLDB, 2024.
 
 **The Future of Graph Analytics** \
+[\[PDF\]](https://humming80.github.io/papers/graphpanel.pdf) \
 A. Bonifati, T. Özsu, Y. Tian, H. Voigt, W. Yu, SIGMOD, 2024.
 
 **Sibyl: Forecasting Time-Evolving Query Workloads** \
+[\[PDF\]](https://humming80.github.io/papers/Sibyl.pdf) \
 H. Huang, T Siddiqui, R. Alotaibi, C. Curino, J. Leeka, A. Jindal, J. Zhao, J. Camacho-Rodríguez, Y Tian, SIGMOD, 2024.
 
 **GEqO: ML-Accelerated Semantic Equivalence Detection** \
+[\[PDF\]](https://humming80.github.io/papers/qeco.pdf) \
 B. Haynes, R. Alotaibi, A. Pavlenko, J. Leeka, A. Jindal, Y. Tian. SIGMOD, 2024.
 
 **Microarchitectural Analysis of Graph BI Queries on RDBMS** \
-[\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3592980.3595321) \
+[\[PDF\]](https://humming80.github.io/papers/graphBIbenchmark.pdf) \
 R. Sen, Y. Tian. DaMoN, 2023. _(**DaMoN 2023 Best Short Paper Award**)_
 
 **Towards Building Autonomous Data Services on Azure** \
-[\[PDF\]](https://dl.acm.org/doi/10.1145/3555041.3589674) [\[Presentation\]](https://www.youtube.com/watch?v=NMnqDaXs-9w) \
+[\[PDF\]](https://humming80.github.io/papers/autoDB.pdf) [\[Presentation\]](https://www.youtube.com/watch?v=NMnqDaXs-9w) \
 Y. Zhu, Y. Tian, J. Cahoon, S. Krishnan, A. Agarwal, R. Alotaibi, J. Camacho-Rodríguez, B. Chundatt, A. Chung, N. Dutta, A. Fogarty, A. Gruenheid, B. Haynes, M. Interlandi, M. Iyer, N. Jurgens, S. Khushalani, B. Kroth, M. Kumar, J. Leeka, S. Matusevych, M. Mittal, A. Mueller, K. Muthyala, H. Nagulapalli, Y. Park, H. Patel, A. Pavlenko, O. Poppe, S. Ravindran, K. Saur, R. Sen, S. Suh, A. Tarafdar, K. Waghray, D., C. Curino, R. Ramakrishnan, Industry Paper, SIGMOD, 2023.
 
 **Exact PPS Sampling with Bounded Sample Size** \

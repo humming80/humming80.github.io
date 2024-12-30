@@ -11,6 +11,11 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 [\[PDF\]](https://humming80.github.io/papers/QOaaSVision-final.pdf) \
 R. Alotaibi, Y. Tian, S. Grafberger, J. Camacho-Rodr\'iguez, N. Bruno, B. Kroth, S. Matusevych, A. Agrawal, M. Behera, A Gosalia, C. Galindo-Legaria, M. Joshi, M. Potocnik, B. Sezgin, X. Li, C. Curino, CIDR, 2025.
 
+**A Roadmap to Graph Analytics** \
+[\[PDF\]](https://sigmodrecord.org/publications/sigmodRecord/2412/pdfs/08_OpenForum_Bonifati.pdf) \
+A. Bonifati, M. T. Özsu, Y. Tian, H. Voigt, W. Yu, and W. Zhang, SIGMOD Record, 2024.
+
+
 **MLOS in Action: Bridging the Gap Between Experimentation and Auto-Tuning in the Cloud** \
 [\[PDF\]](https://humming80.github.io/papers/mlosdemo.pdf) \
 B. Kroth, S. Matusevych, R. Alotaibi, Y. Zhu, A. Gruenheid, Y. Tian, VLDB, 2024.

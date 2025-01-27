@@ -123,7 +123,7 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (Information 
 
 ### **Professional Service**
 
-**Editor**: Associate Editor for VLDB 2026, Associate Editor for VLDB 2025, Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (since 2019), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
+**Editor**: Associate Editor for VLDB 2025, Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (since 2019), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
 
 **Chair**: SIGMOD 2027 PC Chair, VLDB 2025 DEI Chair, EDBT 2025 Industrial & Application Chair, SoCC 2023 PC Chair, VLDB 2023 Industry Chair, EDBT 2023 Demo Chair, CIDR 2023 Diversity & Inclusion Chair, CIDR 2022 Diversity & Inclusion Chair, VLDB 2021 Demo Chair, IEEE BigData 2019 Industry and Government Chair, VLDB 2019 Workshop Chair, ICDE 2017 Demo Chair, CIKM 2013 Poster Chair
 

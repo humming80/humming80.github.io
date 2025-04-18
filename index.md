@@ -133,18 +133,31 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (Information 
 
 ### **Panels**
 - Exciting Advances in Query Processing: Insights from Theory, Systems, and Industry, Special EDBT/ICDT Joint Event on Theory & Practice of Query ProcessingEDBT 2025.
+
 - The Future of Graph Transformations, 1st Transforming Graph Data (TGD) Workshop, March 2025.
+
 - PhD Mentoring Panel (Moderator), VLDB 2024, August 2024. 
+
 - The Future of Graph Analytics, SIGMOD 2024, June 2024.
+
 - AI for Systems, SIGMOD 2024, June 2024.
+
 - FinBench Panel, 16th LDBC TUC meeting, Jun 2023.
+
 - Women in DB: Discussion and Socialization, Organizer, CIDR 2022.
+
 - Women in DB round table, VLDB 2021, Aug 2021.
+
 - ICDE PhD Symposium Panel, ICDE 2021, Apr 2021.
+
 - Round Table on Graph Databases, VLDB 2020.
+
 - Deep Dive: In-Database Graph analytics with Db2, IBM DB2 Nebula (11.5.4) Webinar Series, Jun 2020.
+
 - “Women in DB: Experiences and Perspectives” event, Organizer, SIGMOD 2020.
+
 - NSF Advisory Panel, 2013 & 2016.
+
 - NSF Career Mentoring Panel, ICDE 2012.
 My 2 cents on [How to Be Competitive for Industrial Research Jobs](https://www.slideshare.net/ytian1/research-job-41535070) presented in this career panel.
 

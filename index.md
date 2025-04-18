@@ -89,6 +89,16 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (Information 
 
 ### **Invited Talks**
 
+- Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse Ecosystem, University Of Massachusetts, April 2025.
+
+- Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse Ecosystem (Guest Lecture), Carnegie Mellon University, April 2025.
+
+- Towards Autonomous Data Services on Azure (Guest Lecture), University of Michigan, April 2025.
+
+- The World of Graph Databases from An Industry Perspective (Keynote), 1st Transforming Graph Data (TGD) Workshop, March 2025.
+
+- Query Optimization in Practice: What Are the Realities and Trends?, Special EDBT/ICDT Joint Event on Theory & Practice of Query Processing, March 2025. 
+
 - Towards Autonomous Data Services on Azure, Learning Directed Operating System (LDOS) Symposium, November 2024.
   
 - Graph Databases and AI, interview by Kyle Polich on [Data Skeptic](https://dataskeptic.com/) Podcast, October 21, 2025. Listen [here](https://dataskeptic.com/blog/episodes/2024/graph-databases-and-ai) or wherever you listen to podcasts.

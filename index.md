@@ -140,6 +140,8 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (Information 
 **Workshop Chair**: 3rd Workshop on Large Scale Network Analysis (LSNA 2014), 5th Workshop on Graph Data Management (GDM 2014), 2nd Workshop on Large Scale Network Analysis (LSNA 2013), 4th Workshop on Graph Data Management (GDM 2013), 1st Workshop on Large Scale Network Analysis (LSNA 2012)
 
 **Panelist**:
+- Exciting Advances in Query Processing: Insights from Theory, Systems, and Industry, Special EDBT/ICDT Joint Event on Theory & Practice of Query ProcessingEDBT 2025.
+- The Future of Graph Transformations, 1st Transforming Graph Data (TGD) Workshop, March 2025.
 - PhD Mentoring Panel (Moderator), VLDB 2024, August 2024. 
 - The Future of Graph Analytics, SIGMOD 2024, June 2024.
 - AI for Systems, SIGMOD 2024, June 2024.

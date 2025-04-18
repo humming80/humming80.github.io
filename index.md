@@ -156,8 +156,6 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (Information 
 
 - “Women in DB: Experiences and Perspectives” event, Organizer, SIGMOD 2020.
 
-- NSF Advisory Panel, 2013 & 2016.
-
 - NSF Career Mentoring Panel, ICDE 2012.
 My 2 cents on [How to Be Competitive for Industrial Research Jobs](https://www.slideshare.net/ytian1/research-job-41535070) presented in this career panel.
 
@@ -175,6 +173,6 @@ My 2 cents on [How to Be Competitive for Industrial Research Jobs](https://www.s
 
 **Reviewer for Books**: Data Processing Techniques in The Era of Big Data.
 
-**Reviewer for Research Grants**: Research Grants Council (RGC) of Hong Kong (2010, 2011).
+**Reviewer for Research Grants**: NSF Advisory Panel (2013, 2016), Research Grants Council (RGC) of Hong Kong (2010, 2011).
 
 **Reviewer for Awards**: The NCWIT Award for Aspirations in Computing.

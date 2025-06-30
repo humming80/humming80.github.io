@@ -8,7 +8,7 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 ## Selected Publications
 
 **Advancing Workload Management with Foundational Models: Challenges in Time Series Similarity and Interpretability** \
-[\[PDF\]](https://humming80.github.io/papers/DWTelemetry.pdf)
+[\[PDF\]](https://humming80.github.io/papers/DWTelemetry.pdf)\
 T. Bang, S. Matusevych, Y. Tian, I. Roumpos, G. Christofidi and T. D. Doudali,1st workshop on connecting academia and industry on Modern Integrated Database and AI Systems (MIDAS), in conjuction with the SIGMOD, 2025.
 
 **Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse Ecosystem: Can One QO Rule Them All?** \

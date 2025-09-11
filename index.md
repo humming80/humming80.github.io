@@ -89,6 +89,8 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (Information 
 
 ### **Invited Talks**
 
+- Building Autonomous Data Services on Azure (Keynote), AIDB@VLDB2025, September 2025,
+
 - Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse Ecosystem, University Of Massachusetts, April 2025.
 
 - Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse Ecosystem (Guest Lecture), Carnegie Mellon University, April 2025.
@@ -132,6 +134,7 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (Information 
 - SystemML: Large Scale Machine Learning on MapReduce, University of Maryland, College Park, Maryland, Apr 2012.
 
 ### **Panels**
+
 - Exciting Advances in Query Processing: Insights from Theory, Systems, and Industry, Special EDBT/ICDT Joint Event on Theory & Practice of Query ProcessingEDBT 2025.
 
 - The Future of Graph Transformations, 1st Transforming Graph Data (TGD) Workshop, March 2025.
@@ -161,7 +164,7 @@ My 2 cents on [How to Be Competitive for Industrial Research Jobs](https://www.s
 
 ### **Professional Service**
 
-**Editor**: Associate Editor for VLDB 2025, Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (since 2019), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
+**Editor**: Associate Editor for VLDB 2025, Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (2019 - 2025), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
 
 **Chair**: SIGMOD 2027 PC Chair, VLDB 2025 DEI Chair, EDBT 2025 Industrial & Application Chair, SoCC 2023 PC Chair, VLDB 2023 Industry Chair, EDBT 2023 Demo Chair, CIDR 2023 Diversity & Inclusion Chair, CIDR 2022 Diversity & Inclusion Chair, VLDB 2021 Demo Chair, IEEE BigData 2019 Industry and Government Chair, VLDB 2019 Workshop Chair, ICDE 2017 Demo Chair, CIKM 2013 Poster Chair
 

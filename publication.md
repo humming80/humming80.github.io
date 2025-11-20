@@ -7,6 +7,9 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 ## Selected Publications
 
+**I Can’t Believe It’s Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server** \
+H. Zhao, Y. Tian, R. Alotaibi, B. Ding, N. Bruno, J. Camacho-Rodr\'iguez, V. Papadimos, E. C. Ju\'arez, C. Galindo-Legaria, C. Curino, CIDR, 2026.
+
 **Advancing Workload Management with Foundational Models: Challenges in Time Series Similarity and Interpretability** \
 [\[PDF\]](https://humming80.github.io/papers/DWTelemetry.pdf)\
 T. Bang, S. Matusevych, Y. Tian, I. Roumpos, G. Christofidi and T. D. Doudali,1st workshop on connecting academia and industry on Modern Integrated Database and AI Systems (MIDAS), in conjuction with the SIGMOD, 2025.

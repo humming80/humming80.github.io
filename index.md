@@ -23,7 +23,7 @@ _Selected Papers_: Graph Databases Survey (SIGMOD Record'24, SIGMOD Record'22), 
 
 **Query/Workload Optimization**: Yuanyuan and her team approach the classical query optimization (QO) problem from a fresh perspective, proposing a bold shift in direction. Instead of relying on bespoke QOs or library-sharing frameworks like Calcite, they advocate for reimagining the QO stack by fully embracing Query Optimizer as a Service (QOaaS). This approach decouples the QO from the engine’s query processing, enabling independent deployment and experimentation. QOaaS centralizes workload-level optimizations such as index/view selection and ML-driven QO enhancements, accelerates development by sharing costs across engines, and lays the foundation for multi-engine federation, where each query sub-plan is executed by the most optimal engine.
 
-_Selected Papers_: QOaaS Vision (CIDR'25), Workload Forecasting (SIGMOD'24).
+_Selected Papers_: Bitmap Filter in SQL Server (CIDR'26), QOaaS Vision (CIDR'25), Workload Forecasting (SIGMOD'24).
 
 **ML-for-Systems**: Yuanyuan is co-leading the ML-for-Systems research area in GSL. She and her team work with various Azure data product teams on applying data-driven approaches to automate many aspects of data services on Azure. Their work spans cloud infrastructure, query engines, and service layers of the cloud stack, driving innovation and efficiency across the platform.
 
@@ -88,6 +88,8 @@ _Selected Papers_: Time-biased Sampling for Online Model Mangement (Information 
 - 2003 Rackham Graduate Fellowship, University of Michigan 
 
 ### **Invited Talks**
+
+- Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse Ecosystem, South Bay System Meetup, November 2025.
 
 - Building Autonomous Data Services on Azure (Keynote), AIDB@VLDB2025, September 2025,
 

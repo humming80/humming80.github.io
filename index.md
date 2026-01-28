@@ -7,7 +7,7 @@ title: Home
 ![portrit](https://humming80.github.io/YTian.jpg) 
 
 ## Welcome to Yuanyuan Tian's Home Page! 
-Yuanyuan Tian is currently a Principal Scientist Manager and a Graph Architect at Microsoft Gray Systems Lab and an ACM Distinguished Member. Before Microsoft, she was a Principal Research Staff Member at IBM Almaden Research Center. She received her PhD degree in Computer Science & Engineering in 2008 and MS degree in Computer Science & Engineering in 2005 both from University of Michigan, and BS degree in Computer Science & Technology with honor in 2003 from Peking University.
+Yuanyuan Tian is currently a Partner Scientist Manager and a Graph Architect at Microsoft and an ACM Distinguished Member. Before Microsoft, she was a Principal Research Staff Member at IBM Almaden Research Center. She received her PhD degree in Computer Science & Engineering in 2008 and MS degree in Computer Science & Engineering in 2005 both from University of Michigan, and BS degree in Computer Science & Technology with honor in 2003 from Peking University.
 
 [\[Download CV\]](https://humming80.github.io/CV_Tian.pdf)
 
@@ -166,7 +166,7 @@ My 2 cents on [How to Be Competitive for Industrial Research Jobs](https://www.s
 
 ### **Professional Service**
 
-**Editor**: Associate Editor for VLDB 2025, Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (2019 - 2025), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
+**Editor**: SIGMOD PC Advisory Board Member, Associate Editor for VLDB 2025, Associate Editor for SIGMOD 2024, Associate Editor for Frontiers in Big Data (since 2021), Associate Editor for VLDB Journal (2019 - 2025), Associate Editor for PVLDB Vol. 11 (VLDB 2018), Section Editor for Encyclopedia on Big Data Technologies.
 
 **Chair**: SIGMOD 2027 PC Chair, VLDB 2025 DEI Chair, EDBT 2025 Industrial & Application Chair, SoCC 2023 PC Chair, VLDB 2023 Industry Chair, EDBT 2023 Demo Chair, CIDR 2023 Diversity & Inclusion Chair, CIDR 2022 Diversity & Inclusion Chair, VLDB 2021 Demo Chair, IEEE BigData 2019 Industry and Government Chair, VLDB 2019 Workshop Chair, ICDE 2017 Demo Chair, CIKM 2013 Poster Chair
 

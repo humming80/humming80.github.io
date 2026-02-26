@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-
-![portrit](https://humming80.github.io/headshot.jpg)
 <img src="headshot.jpg" alt="portrait" width="200">
 
 ## Welcome to Yuanyuan Tian's Home Page! 

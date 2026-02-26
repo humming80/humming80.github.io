@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-![portrit](https://humming80.github.io/headshot.jpg =100x) 
+![portrit](https://humming80.github.io/headshot.jpg){ width=200px }
 
 ## Welcome to Yuanyuan Tian's Home Page! 
 Yuanyuan Tian is currently a Partner Scientist Manager and a Graph Architect at Microsoft and an ACM Distinguished Member. Before Microsoft, she was a Principal Research Staff Member at IBM Almaden Research Center. She received her PhD degree in Computer Science & Engineering in 2008 and MS degree in Computer Science & Engineering in 2005 both from University of Michigan, and BS degree in Computer Science & Technology with honor in 2003 from Peking University.

@@ -7,6 +7,10 @@ List of all publications at [Google Scholar](https://scholar.google.com/citation
 
 ## Selected Publications
 
+**Query Optimization in the Wild: Realities and Trends** \
+[\[PDF\]](https://humming80.github.io/papers/QOTrends.pdf)\
+Y. Tian. ACM SIGMOD Record (to appear), 2026.
+
 **I Can’t Believe It’s Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server** \
 [\[PDF\]](https://www.cidrdb.org/papers/2026/p29-zhao.pdf)\
 H. Zhao, Y. Tian, R. Alotaibi, B. Ding, N. Bruno, J. Camacho-Rodr\'iguez, V. Papadimos, E. C. Ju\'arez, C. Galindo-Legaria, C. Curino, CIDR, 2026.

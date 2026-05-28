@@ -27,7 +27,7 @@ Yuanyuan leads graph queries & analytics, query/workload optimization, and ML-fo
 <div class="research-area">
 <h3>Graph Queries and Analytics</h3>
 <p>Yuanyuan has worked on graphs for most of her career — two books and 20+ papers. She is currently building scale-out graph query and analytics platforms, working with Azure data product teams and the Liquid team at LinkedIn. She founded and led <a href="https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-db2w/db2w-graph-ovu.html">IBM Db2 Graph</a> and is an architect for <a href="https://learn.microsoft.com/en-us/fabric/graph/overview">Graph in Microsoft Fabric</a>. Her PhD thesis was on querying graph databases.</p>
-<p class="papers">Selected: Graph Databases Survey (SIGMOD Record'24, '22), Graph BI Benchmarking (DaMoN'23), Db2 Graph (SIGMOD'20, VLDB'19), Giraph++ (PVLDB'13), Graph Summarization (CIKM'14, ICDE'10, SIGMOD'08)</p>
+<p class="papers">Selected: Graph Databases Survey (SIGMOD Record'24, '22), Graph BI Benchmarking (DaMoN'23), Db2 Graph (SIGMOD'20, VLDB'19), Large-scale Graph Processing (ICDE'15, PVLDB'13), Graph Summarization (CIKM'14, ICDE'10, SIGMOD'08), Graph Matching (ICDE'08, Bioinformatics'07)</p>
 </div>
 
 <div class="research-area">

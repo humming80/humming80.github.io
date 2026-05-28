@@ -1,11 +1,9 @@
 # basic options
-title: Yuanyuan Tian's Home Page
+title: Yuanyuan Tian
 author: Yuanyuan Tian
-#email: yuanyuan.t@gmail.com
-description: The home page of Dr. Yuanyuan Tian
-#twitter_username: jekyllrb
-#github_username:  jekyll
+description: Yuanyuan Tian — Partner Scientist Manager & Graph Architect at Microsoft
 
 # Build settings
 markdown: kramdown
-theme: minima
+exclude:
+  - README.md

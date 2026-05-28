@@ -1,0 +1,12 @@
+<nav>
+  <div class="nav-inner">
+    <a href="/" class="site-title">Yuanyuan Tian</a>
+    <button class="nav-toggle" aria-label="Menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
+    <div class="nav-links">
+      <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+      <a href="/publication" {% if page.url == "/publication" %}class="active"{% endif %}>Publications</a>
+      <a href="/bio" {% if page.url == "/bio" %}class="active"{% endif %}>Bio</a>
+      <a href="/hobby" {% if page.url == "/hobby" %}class="active"{% endif %}>Art</a>
+    </div>
+  </div>
+</nav>

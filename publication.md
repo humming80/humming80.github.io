@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Publications
+permalink: /publication
 ---
 
-List of all publications at [Google Scholar](https://scholar.google.com/citations?user=_XE_jhQAAAAJ&hl=en).
+## Publications
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=_XE_jhQAAAAJ&hl=en).
 
 ## Selected Publications
 

@@ -14,7 +14,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=_XE_jhQA
 T. Cong, Y. Tian, A. Mueller, R. Sen, Y. He, F. Psallidas, S. Deep, H. V. Jagadish. EDBT (to appear), 2027.
 
 **Query Optimization in the Wild: Realities and Trends** \
-[\[PDF\]](https://humming80.github.io/papers/QOTrends.pdf)\
+[\[PDF\]](https://sigmodrecord.org/publications/sigmodRecord/2606/pdfs/09_Industry_Tian.pdf)\
 Y. Tian. ACM SIGMOD Record, 2026.
 
 **I Can’t Believe It’s Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server** \

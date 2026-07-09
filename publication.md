@@ -19,7 +19,7 @@ Y. Tian. ACM SIGMOD Record, 2026.
 
 **I Can’t Believe It’s Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server** \
 [\[PDF\]](https://www.cidrdb.org/papers/2026/p29-zhao.pdf)\
-H. Zhao, Y. Tian, R. Alotaibi, B. Ding, N. Bruno, J. Camacho-Rodr\'iguez, V. Papadimos, E. C. Ju\'arez, C. Galindo-Legaria, C. Curino, CIDR, 2026.
+H. Zhao, Y. Tian, R. Alotaibi, B. Ding, N. Bruno, J. Camacho-Rodriguez, V. Papadimos, E. C. Juarez, C. Galindo-Legaria, C. Curino, CIDR, 2026.
 
 **Advancing Workload Management with Foundational Models: Challenges in Time Series Similarity and Interpretability** \
 [\[PDF\]](https://humming80.github.io/papers/DWTelemetry.pdf)\
@@ -27,7 +27,7 @@ T. Bang, S. Matusevych, Y. Tian, I. Roumpos, G. Christofidi and T. D. Doudali,1s
 
 **Towards Query Optimizer as a Service (QOaaS) in a Unified LakeHouse Ecosystem: Can One QO Rule Them All?** \
 [\[PDF\]](https://humming80.github.io/papers/QOaaSVision-final.pdf) [\[Presentation\]](https://humming80.github.io/papers/CIDR-2025-S1-T5-ytian-v2.pdf)\
-R. Alotaibi, Y. Tian, S. Grafberger, J. Camacho-Rodr\'iguez, N. Bruno, B. Kroth, S. Matusevych, A. Agrawal, M. Behera, A Gosalia, C. Galindo-Legaria, M. Joshi, M. Potocnik, B. Sezgin, X. Li, C. Curino, CIDR, 2025.
+R. Alotaibi, Y. Tian, S. Grafberger, J. Camacho-Rodriguez, N. Bruno, B. Kroth, S. Matusevych, A. Agrawal, M. Behera, A Gosalia, C. Galindo-Legaria, M. Joshi, M. Potocnik, B. Sezgin, X. Li, C. Curino, CIDR, 2025.
 
 **A Roadmap to Graph Analytics** \
 [\[PDF\]](https://sigmodrecord.org/publications/sigmodRecord/2412/pdfs/08_OpenForum_Bonifati.pdf) \

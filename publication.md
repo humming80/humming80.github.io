@@ -13,6 +13,10 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=_XE_jhQA
 **Nexus: Inferring Join Graphs from Metadata Alone via Iterative Low-Rank Matrix Completion** \
 T. Cong, Y. Tian, A. Mueller, R. Sen, Y. He, F. Psallidas, S. Deep, H. V. Jagadish. EDBT (to appear), 2027.
 
+**GASP: GPU-Accelerated Shortest Path for Graph Analytics** \
+[\[PDF\]](https://dl.acm.org/doi/10.1145/3789237.3809122)\
+I. D. Lavore, R. Sen, Y. Tian. DaMoN, 2026.
+
 **Query Optimization in the Wild: Realities and Trends** \
 [\[PDF\]](https://sigmodrecord.org/publications/sigmodRecord/2606/pdfs/09_Industry_Tian.pdf)\
 Y. Tian. ACM SIGMOD Record, 2026.

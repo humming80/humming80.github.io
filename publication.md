@@ -10,6 +10,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=_XE_jhQA
 
 ## Selected Publications
 
+**Reclaiming the GPU’s Forgotten Half: Getting Your Join’s Mojo Back with Tensor Cores** \
+S. Frisk, S. Deep, H. Zhao, Y. Tian, P. Koutris, CIDR (to appear), 2027.
+
 **Nexus: Inferring Join Graphs from Metadata Alone via Iterative Low-Rank Matrix Completion** \
 T. Cong, Y. Tian, A. Mueller, R. Sen, Y. He, F. Psallidas, S. Deep, H. V. Jagadish. EDBT (to appear), 2027.
 

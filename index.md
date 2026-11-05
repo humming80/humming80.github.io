@@ -143,6 +143,7 @@ Yuanyuan leads graph queries & analytics, query/workload optimization, and ML-fo
 ## Panels
 
 <ul class="item-list">
+<li><span class="year-tag">2026</span> Publish or Ship? The Research-to-Production Gap in Data Systems, VLDB 2026.</li>
 <li><span class="year-tag">2025</span> Exciting Advances in Query Processing: Insights from Theory, Systems, and Industry, EDBT/ICDT 2025.</li>
 <li><span class="year-tag">2025</span> The Future of Graph Transformations, 1st Transforming Graph Data (TGD) Workshop, March 2025.</li>
 <li><span class="year-tag">2024</span> PhD Mentoring Panel (Moderator), VLDB 2024, August 2024.</li>
